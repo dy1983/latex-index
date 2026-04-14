@@ -3,7 +3,17 @@ Index checker: verify page numbers, merging, ordering, and cross-references.
 """
 import re
 from typing import List, Tuple, Optional
-from readings import PolyphoneDict, text_to_pinyin
+from idx_parser import strip_tex
+from readings import collect_text_sort_warnings, PolyphoneDict, text_to_sort_key
+
+
+DISPLAY_SORT_REPLACEMENTS = {
+    '\\upbeta': 'BAA',
+    '\\updelta': 'DAA',
+    '\\varepsilon': 'epsilon',
+    '\\lambda': 'lambda',
+    '\\upnu': 'nu',
+}
 
 
 def parse_ind_file(filepath: str) -> List[dict]:
@@ -149,17 +159,15 @@ def extract_page_numbers(pages_str: str) -> List[int]:
 
 def normalize_entry_text(text: str) -> str:
     """Normalize entry text for sorting and comparison."""
-    # For LaTeX content, we convert special commands to their Latin equivalents or remove spacing
-    # But we keep the overall structure
-    # Replace \bzx with hyphen
-    text = text.replace('\\bzx', '-')
-    # Replace other common LaTeX commands
-    text = re.sub(r'\\[a-z]+\s+', '', text)  # \upbeta, \updelta, etc. followed by space
-    # Remove unnecessary braces
-    text = re.sub(r'\$\{', '$', text)
-    text = re.sub(r'\}\$', '$', text)
-    text = re.sub(r'\{([^}]*)\}', r'\1', text)  # Remove outer braces
-    # Normalize whitespace
+    for source, target in DISPLAY_SORT_REPLACEMENTS.items():
+        text = text.replace(source, target)
+
+    text = text.replace('$n$', 'nAA')
+    text = re.sub(r'\\bzx\s*', '', text)
+    text = text.replace('~', '')
+    text = strip_tex(text)
+    text = text.replace('$', '')
+    text = text.replace("'", '')
     text = re.sub(r'\s+', ' ', text)
     text = text.strip()
     return text
@@ -168,15 +176,23 @@ def normalize_entry_text(text: str) -> str:
 def check_index(filepath: str, polyphone_dict: Optional[PolyphoneDict] = None) -> dict:
     """Run all checks on an .ind file. Returns a report dict."""
     entries = parse_ind_file(filepath)
+    polyphone_dict = polyphone_dict or PolyphoneDict({})
     
     report = {
         'total_entries': len(entries),
         'errors': [],
         'warnings': []
     }
+
+    normalized_texts = []
+    for entry in entries:
+        normalized_text = normalize_entry_text(entry['text'])
+        if normalized_text:
+            normalized_texts.append(normalized_text)
+    report['warnings'].extend(collect_text_sort_warnings(normalized_texts, polyphone_dict))
     
     prev_text = None
-    prev_pinyin = None
+    prev_sort_key = None
     all_pages = []
     
     for i, entry in enumerate(entries):
@@ -221,25 +237,16 @@ def check_index(filepath: str, polyphone_dict: Optional[PolyphoneDict] = None) -
                         f"Entry {i+1} '{text}': pages may not be optimally merged: {pages_str}"
                     )
         
-        # Check 4: Ordering of entries using pinyin
+        # Check 4: Ordering of entries using the Chinese sort rule
         if normalized_text:  # Only check if we have non-empty text
-            if polyphone_dict is not None and prev_text is not None:
-                try:
-                    current_pinyin = text_to_pinyin(normalized_text, polyphone_dict)
-                    if prev_pinyin is not None and current_pinyin < prev_pinyin:
-                        report['errors'].append(
-                            f"Entry {i+1} '{text}' (pinyin: {current_pinyin}) "
-                            f"should not come before Entry {i} '{prev_text}' (pinyin: {prev_pinyin})"
-                        )
-                    prev_pinyin = current_pinyin
-                except Exception as e:
-                    # Skip pinyin check if it fails
-                    pass
-            elif prev_text is not None and normalized_text:
-                # Fallback to simple string comparison if no polyphone dict
-                if normalized_text < prev_text:
-                    report['errors'].append(f"Entry {i+1} '{text}' appears before Entry {i} '{prev_text}' but should come after")
-            
+            current_sort_key = text_to_sort_key(normalized_text, polyphone_dict)
+            if prev_text is not None and prev_sort_key is not None and current_sort_key < prev_sort_key:
+                report['errors'].append(
+                    f"Entry {i+1} '{text}' should not come before Entry {i} '{prev_text}' "
+                    "under the pinyin-plus-stroke sorting rule"
+                )
+
+            prev_sort_key = current_sort_key
             prev_text = normalized_text
     
     return report
@@ -295,7 +302,7 @@ if __name__ == '__main__':
         polyphone = PolyphoneDict.load(args.polyphone)
     else:
         # Try to load built-in polyphone file
-        built_in = os.path.join(os.path.dirname(__file__), 'polyphone_overrides.yaml')
+        built_in = os.path.join(os.path.dirname(__file__), 'poly.yaml')
         if os.path.exists(built_in):
             polyphone = PolyphoneDict.load(built_in)
     
