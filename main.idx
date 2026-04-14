@@ -1,0 +1,2484 @@
+\indexentry{H定理@$H$ 定理}{9}
+\indexentry{热力学极限}{10}
+\indexentry{广延量}{10}
+\indexentry{强度量}{10}
+\indexentry{宏观态}{10}
+\indexentry{微观态|(}{10}
+\indexentry{等先验概率假设}{11}
+\indexentry{平衡!趋向平衡|(}{11}
+\indexentry{热力学温度}{13}
+\indexentry{熵!熵的统计诠释}{13}
+\indexentry{热力学第三定律}{13}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{13}
+\indexentry{微观态|)}{13}
+\indexentry{热力学第零定律}{13}
+\indexentry{平衡!趋向平衡|)}{14}
+\indexentry{热力学压强}{14}
+\indexentry{化学势}{14}
+\indexentry{微观态}{15}
+\indexentry{焓}{16}
+\indexentry{吉布斯自由能}{16}
+\indexentry{亥姆霍兹自由能}{16}
+\indexentry{经典系统|(}{16}
+\indexentry{理想气体!经典理想气体|(}{16}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{16}
+\indexentry{广延量}{16}
+\indexentry{物态方程!经典系统的物态方程}{17}
+\indexentry{微观态|(}{17}
+\indexentry{绝热!绝热过程}{18}
+\indexentry{斯特林公式}{21}
+\indexentry{比热!经典气体的比热}{22}
+\indexentry{物态方程!经典系统的物态方程}{22}
+\indexentry{比热!经典气体的比热}{22}
+\indexentry{等温过程}{23}
+\indexentry{绝热!绝热过程}{23}
+\indexentry{经典系统|)}{23}
+\indexentry{理想气体!经典理想气体|)}{23}
+\indexentry{微观态|)}{23}
+\indexentry{熵!混合熵|(}{23}
+\indexentry{吉布斯佯谬|(}{23}
+\indexentry{广延量}{23}
+\indexentry{强度量}{23}
+\indexentry{广延量}{25}
+\indexentry{萨克尔蒂特罗德方程@萨克尔\bzx 蒂特罗德方程}{26}
+\indexentry{广延量}{26}
+\indexentry{化学势!经典气体的化学势}{26}
+\indexentry{吉布斯自由能}{26}
+\indexentry{亥姆霍兹自由能}{27}
+\indexentry{广延量}{27}
+\indexentry{熵!混合熵|)}{27}
+\indexentry{吉布斯佯谬|)}{27}
+\indexentry{微观态|(}{27}
+\indexentry{微观态!微观态的正确计数@微观态的{``}正确{''}计数|(}{27}
+\indexentry{不可分辨性!粒子的不可分辨性}{27}
+\indexentry{量子统计}{28}
+\indexentry{不可分辨性!粒子的不可分辨性}{28}
+\indexentry{占有数}{28}
+\indexentry{经典极限}{28}
+\indexentry{微正则配分函数}{28}
+\indexentry{微观态|)}{28}
+\indexentry{微观态!微观态的正确计数@微观态的{``}正确{''}计数|)}{28}
+\indexentry{泡利不相容原理}{28}
+\indexentry{绝热!绝热过程}{30}
+\indexentry{系综!系综理论|(}{31}
+\indexentry{微观态}{31}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{31}
+\indexentry{经典系统|(}{31}
+\indexentry{相空间|(}{31}
+\indexentry{相空间!相空间中的密度函数|(}{31}
+\indexentry{系综!系综平均}{32}
+\indexentry{定态系综}{33}
+\indexentry{刘维尔定理|(}{33}
+\indexentry{系综!系综平均|(}{35}
+\indexentry{等先验概率假设}{35}
+\indexentry{正则系综}{36}
+\indexentry{经典系统|)}{36}
+\indexentry{刘维尔定理|)}{36}
+\indexentry{相空间|)}{36}
+\indexentry{相空间!相空间中的密度函数|)}{36}
+\indexentry{微正则系综|(}{36}
+\indexentry{系综!系综平均|)}{37}
+\indexentry{遍历性!遍历假说}{37}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{38}
+\indexentry{微正则系综|)}{38}
+\indexentry{相空间|(}{38}
+\indexentry{理想气体!经典理想气体}{38}
+\indexentry{态密度!自由粒子的态密度}{39}
+\indexentry{谐振子}{39}
+\indexentry{谐振子}{40}
+\indexentry{相空间|)}{40}
+\indexentry{光子}{42}
+\indexentry{系综!系综理论|)}{42}
+\indexentry{正则变换}{42}
+\indexentry{刚性转子}{43}
+\indexentry{相空间}{43}
+\indexentry{相对论性气体}{44}
+\indexentry{相对论性气体}{44}
+\indexentry{正则系综|(}{45}
+\indexentry{微正则系综}{45}
+\indexentry{微正则配分函数}{45}
+\indexentry{热力学极限}{46}
+\indexentry{最概然分布}{48}
+\indexentry{最概然值法|(}{48}
+\indexentry{斯特林公式}{48}
+\indexentry{拉格朗日乘子法}{49}
+\indexentry{最概然值法|)}{49}
+\indexentry{平均值法|(}{50}
+\indexentry{达尔文福勒方法@达尔文\bzx 福勒方法}{50}
+\indexentry{鞍点法}{50}
+\indexentry{最速下降法}{50}
+\indexentry{鞍点法}{52}
+\indexentry{系综!系综平均}{54}
+\indexentry{涨落!正则系综中的涨落}{54}
+\indexentry{平均值法|)}{55}
+\indexentry{正则分布}{56}
+\indexentry{亥姆霍兹自由能}{56}
+\indexentry{化学势}{57}
+\indexentry{吉布斯自由能}{57}
+\indexentry{熵!熵的统计诠释}{57}
+\indexentry{热力学第三定律}{58}
+\indexentry{熵!熵的统计诠释}{58}
+\indexentry{微正则系综}{58}
+\indexentry{玻尔兹曼因子}{58}
+\indexentry{态密度}{59}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{60}
+\indexentry{经典系统|(}{60}
+\indexentry{经典系统!正则系综中的经典系统|(}{60}
+\indexentry{理想气体!经典理想气体|(}{60}
+\indexentry{相空间}{60}
+\indexentry{系综!系综平均}{60}
+\indexentry{配分函数!经典理想气体的配分函数|(}{60}
+\indexentry{态密度}{62}
+\indexentry{配分函数!经典理想气体的配分函数|)}{62}
+\indexentry{态密度}{63}
+\indexentry{经典系统|)}{63}
+\indexentry{经典系统!正则系综中的经典系统|)}{63}
+\indexentry{理想气体!经典理想气体|)}{63}
+\indexentry{能量!能量涨落|(}{63}
+\indexentry{涨落!能量涨落|(}{63}
+\indexentry{涨落!正则系综中的涨落|(}{63}
+\indexentry{微正则系综|(}{63}
+\indexentry{玻尔兹曼因子}{64}
+\indexentry{玻尔兹曼因子}{65}
+\indexentry{理想气体!经典理想气体}{65}
+\indexentry{能量!能量涨落|)}{66}
+\indexentry{涨落!能量涨落|)}{66}
+\indexentry{涨落!正则系综中的涨落|)}{66}
+\indexentry{微正则系综|)}{66}
+\indexentry{经典系统!有相互作用的经典系统|(}{67}
+\indexentry{理想气体!经典理想气体}{67}
+\indexentry{正则变换}{68}
+\indexentry{能量均分定理}{68}
+\indexentry{位力!位力定理}{68}
+\indexentry{理想气体!经典理想气体}{68}
+\indexentry{物态方程!经典系统的物态方程}{69}
+\indexentry{能量均分定理}{69}
+\indexentry{物态方程!经典系统的物态方程}{69}
+\indexentry{位力!位力物态方程}{69}
+\indexentry{经典系统!有相互作用的经典系统|)}{69}
+\indexentry{谐振子|(}{69}
+\indexentry{黑体辐射}{70}
+\indexentry{不可分辨性!光子的不可分辨性}{70}
+\indexentry{配分函数!谐振子系统的配分函数}{70}
+\indexentry{态密度!谐振子系统的态密度}{71}
+\indexentry{配分函数!谐振子系统的配分函数}{71}
+\indexentry{配分函数!谐振子系统的配分函数}{72}
+\indexentry{比热!谐振子系统的比热}{72}
+\indexentry{能量均分定理}{72}
+\indexentry{配分函数!谐振子系统的配分函数}{73}
+\indexentry{态密度!谐振子系统的态密度}{73}
+\indexentry{DAA函数@$\updelta$ 函数}{73}
+\indexentry{热力学极限}{74}
+\indexentry{经典极限}{74}
+\indexentry{谐振子|)}{75}
+\indexentry{顺磁性|(}{75}
+\indexentry{配分函数!磁偶极子系统的配分函数}{75}
+\indexentry{朗之万函数}{76}
+\indexentry{居里定律}{77}
+\indexentry{钾 (K)}{77}
+\indexentry{布里渊函数}{79}
+\indexentry{居里定律}{80}
+\indexentry{布里渊函数}{80}
+\indexentry{顺磁性|)}{80}
+\indexentry{钾 (K)}{81}
+\indexentry{负温度|(}{81}
+\indexentry{磁性系统的热力学|(}{81}
+\indexentry{配分函数!磁偶极子系统的配分函数}{81}
+\indexentry{比热!磁性材料的比热}{82}
+\indexentry{肖特基效应}{82}
+\indexentry{配分函数!谐振子系统的配分函数}{86}
+\indexentry{比热!磁性材料的比热}{87}
+\indexentry{正则系综|)}{87}
+\indexentry{负温度|)}{87}
+\indexentry{磁性系统的热力学|)}{87}
+\indexentry{鞍点法}{88}
+\indexentry{最概然分布}{88}
+\indexentry{自由体积}{89}
+\indexentry{硬球流体}{89}
+\indexentry{配分函数!经典理想气体的配分函数}{89}
+\indexentry{相对论性气体}{90}
+\indexentry{涨落!正则系综中的涨落}{90}
+\indexentry{能量均分定理}{91}
+\indexentry{非谐振子}{92}
+\indexentry{非谐振子}{92}
+\indexentry{比热!非谐振子系统的比热}{93}
+\indexentry{费米振子}{93}
+\indexentry{正则分布}{93}
+\indexentry{双原子分子}{93}
+\indexentry{正则分布}{94}
+\indexentry{居里定律}{94}
+\indexentry{玻尔范莱文定理@玻尔\bzx 范莱文定理}{95}
+\indexentry{巨正则系综|(}{97}
+\indexentry{化学势|(}{97}
+\indexentry{化学势|)}{99}
+\indexentry{达尔文福勒方法@达尔文\bzx 福勒方法}{100}
+\indexentry{q 势@$q$ 势|(}{100}
+\indexentry{热量的积分因子}{101}
+\indexentry{克拉默斯q势@克拉默斯 $q$ 势}{101}
+\indexentry{逸度}{102}
+\indexentry{巨配分函数}{102}
+\indexentry{量子统计}{102}
+\indexentry{亥姆霍兹自由能}{103}
+\indexentry{q 势@$q$ 势|)}{103}
+\indexentry{理想气体!经典理想气体}{103}
+\indexentry{配分函数!经典理想气体的配分函数}{103}
+\indexentry{不可分辨性!粒子的不可分辨性}{103}
+\indexentry{巨配分函数}{104}
+\indexentry{强度量}{105}
+\indexentry{热力学极限}{105}
+\indexentry{谐振子}{106}
+\indexentry{逸度}{106}
+\indexentry{逸度!二相系统的逸度}{106}
+\indexentry{蒸汽压}{106}
+\indexentry{固体的蒸汽压}{106}
+\indexentry{谐振子}{107}
+\indexentry{涨落!巨正则系综中的涨落|(}{107}
+\indexentry{微正则系综}{108}
+\indexentry{压缩率!等温压缩率}{108}
+\indexentry{密度涨落}{108}
+\indexentry{涨落!密度涨落}{108}
+\indexentry{临界乳光}{109}
+\indexentry{涨落!临界涨落}{109}
+\indexentry{能量!能量涨落}{109}
+\indexentry{涨落!能量涨落}{109}
+\indexentry{涨落!巨正则系综中的涨落|)}{110}
+\indexentry{相图|(}{110}
+\indexentry{氩|(}{110}
+\indexentry{汽相}{110}
+\indexentry{固相}{110}
+\indexentry{共存线}{110}
+\indexentry{汽液共存线}{110}
+\indexentry{固液共存线}{110}
+\indexentry{固汽共存线}{110}
+\indexentry{三相点}{110}
+\indexentry{临界点}{110}
+\indexentry{共存线}{110}
+\indexentry{升华}{110}
+\indexentry{汽相}{110}
+\indexentry{结线}{110}
+\indexentry{临界点}{110}
+\indexentry{液相}{110}
+\indexentry{固相}{110}
+\indexentry{汽相}{110}
+\indexentry{汽相}{110}
+\indexentry{液相}{111}
+\indexentry{散射}{111}
+\indexentry{关联}{111}
+\indexentry{中子散射}{111}
+\indexentry{结构因子}{111}
+\indexentry{临界温度}{111}
+\indexentry{超临界相}{111}
+\indexentry{共存线}{111}
+\indexentry{汽液共存线}{111}
+\indexentry{固相}{111}
+\indexentry{布拉格峰}{111}
+\indexentry{一级相变}{111}
+\indexentry{相变!一级相变}{111}
+\indexentry{结线}{111}
+\indexentry{潜热}{111}
+\indexentry{共存线}{111}
+\indexentry{三相点}{111}
+\indexentry{临界点}{112}
+\indexentry{共存线}{112}
+\indexentry{汽液共存线}{112}
+\indexentry{连续相变}{112}
+\indexentry{相变!二级相变}{112}
+\indexentry{二级相变}{112}
+\indexentry{压缩率!等温压缩率}{112}
+\indexentry{氩|)}{112}
+\indexentry{热德布罗意波长}{112}
+\indexentry{量子统计}{112}
+\indexentry{共存线}{112}
+\indexentry{汽液共存线}{112}
+\indexentry{固相}{112}
+\indexentry{临界点}{112}
+\indexentry{lambda相变@$\lambda$~相变!液He4@液 $\prescript{4}{}{\text{He}}$ 中的 $\lambda$~相变}{112}
+\indexentry{固液共存线}{112}
+\indexentry{液相}{112}
+\indexentry{超流}{112}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计}{113}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{113}
+\indexentry{固相}{113}
+\indexentry{超固体}{113}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{113}
+\indexentry{临界温度}{113}
+\indexentry{BCS}{113}
+\indexentry{氦}{113}
+\indexentry{氦4@氦~4 ($\prescript{4}{}{\text{He}}$)}{113}
+\indexentry{相图|)}{113}
+\indexentry{固相}{113}
+\indexentry{相平衡|(}{113}
+\indexentry{化学势}{113}
+\indexentry{吉布斯自由能}{113}
+\indexentry{化学势}{113}
+\indexentry{水}{114}
+\indexentry{冰}{114}
+\indexentry{共存压强}{114}
+\indexentry{吉布斯自由能}{114}
+\indexentry{潜热!汽化潜热}{114}
+\indexentry{化学势}{114}
+\indexentry{共存压强}{114}
+\indexentry{克劳修斯克拉珀龙方程@克劳修斯\bzx 克拉珀龙方程}{114}
+\indexentry{相变!一级相变}{114}
+\indexentry{化学势}{115}
+\indexentry{三相点}{115}
+\indexentry{共存线}{115}
+\indexentry{巨正则系综|)}{115}
+\indexentry{相平衡|)}{115}
+\indexentry{热力学极限}{115}
+\indexentry{热力学极限}{116}
+\indexentry{双原子分子}{116}
+\indexentry{吸附}{116}
+\indexentry{朗缪尔方程}{117}
+\indexentry{潜热!汽化潜热}{117}
+\indexentry{潜热!升华潜热}{117}
+\indexentry{三相点}{117}
+\indexentry{潜热!融化潜热}{117}
+\indexentry{汽液共存线}{117}
+\indexentry{固液共存线}{117}
+\indexentry{固汽共存线}{117}
+\indexentry{三相点}{117}
+\indexentry{氦4@氦~4 ($\prescript{4}{}{\text{He}}$)}{117}
+\indexentry{量子统计|(}{119}
+\indexentry{遍历性}{119}
+\indexentry{纠缠}{120}
+\indexentry{熵!纠缠熵}{120}
+\indexentry{量子纠缠}{120}
+\indexentry{多体局域化}{120}
+\indexentry{密度矩阵|(}{120}
+\indexentry{系综!系综平均}{121}
+\indexentry{刘维尔定理}{123}
+\indexentry{熵!冯·诺伊曼熵}{123}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{123}
+\indexentry{熵!冯·诺伊曼熵}{123}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{123}
+\indexentry{细致平衡}{124}
+\indexentry{熵!冯·诺伊曼熵}{124}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{124}
+\indexentry{密度矩阵|)}{124}
+\indexentry{微正则系综|(}{124}
+\indexentry{微正则配分函数}{124}
+\indexentry{微观态}{124}
+\indexentry{等先验概率假设}{124}
+\indexentry{热力学第三定律}{125}
+\indexentry{熵!熵的统计诠释}{125}
+\indexentry{密度矩阵}{125}
+\indexentry{等先验概率假设}{125}
+\indexentry{无规先验相位假设}{125}
+\indexentry{无规相位}{125}
+\indexentry{密度矩阵}{126}
+\indexentry{微正则配分函数}{126}
+\indexentry{微正则系综|)}{126}
+\indexentry{正则系综|(}{126}
+\indexentry{玻尔兹曼因子}{126}
+\indexentry{正则系综|)}{127}
+\indexentry{巨正则系综|(}{127}
+\indexentry{经典系统!巨正则系综中的经典系统}{127}
+\indexentry{系综!系综平均}{128}
+\indexentry{逸度}{128}
+\indexentry{巨正则系综|)}{128}
+\indexentry{电子!磁场中的电子}{128}
+\indexentry{密度矩阵}{129}
+\indexentry{密度矩阵!电子的密度矩阵}{129}
+\indexentry{密度矩阵!自由粒子的密度矩阵|(}{129}
+\indexentry{密度矩阵}{130}
+\indexentry{密度矩阵}{130}
+\indexentry{平均热波长}{130}
+\indexentry{密度矩阵!自由粒子的密度矩阵|)}{131}
+\indexentry{谐振子|(}{131}
+\indexentry{密度矩阵!线性谐振子的密度矩阵|(}{131}
+\indexentry{经典极限}{132}
+\indexentry{谐振子|)}{133}
+\indexentry{密度矩阵!线性谐振子的密度矩阵|)}{133}
+\indexentry{理想气体!量子力学理想气体|(}{133}
+\indexentry{微观态}{134}
+\indexentry{不可分辨性!粒子的不可分辨性}{135}
+\indexentry{微观态}{135}
+\indexentry{黑体辐射}{135}
+\indexentry{波函数的对称性}{136}
+\indexentry{泡利不相容原理}{137}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{137}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计}{137}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{137}
+\indexentry{自旋和统计}{137}
+\indexentry{理想气体!量子力学理想气体|)}{138}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{138}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|(}{138}
+\indexentry{配分函数!自由粒子系统的配分函数|(}{138}
+\indexentry{密度矩阵!自由粒子系统的密度矩阵|(}{138}
+\indexentry{正则系综}{138}
+\indexentry{平均热波长}{140}
+\indexentry{平均热波长}{141}
+\indexentry{经典极限}{141}
+\indexentry{不可分辨性!粒子的不可分辨性}{141}
+\indexentry{波函数的对称性}{141}
+\indexentry{相空间}{141}
+\indexentry{微观态}{141}
+\indexentry{简并性}{141}
+\indexentry{经典极限}{142}
+\indexentry{经典极限}{142}
+\indexentry{对分布函数}{142}
+\indexentry{关联!空间关联}{142}
+\indexentry{玻尔兹曼因子}{143}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{143}
+\indexentry{统计势}{143}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{143}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|)}{143}
+\indexentry{配分函数!自由粒子系统的配分函数|)}{143}
+\indexentry{密度矩阵!自由粒子系统的密度矩阵|)}{143}
+\indexentry{本征态热化假说|(}{143}
+\indexentry{遍历性}{143}
+\indexentry{微观态}{146}
+\indexentry{遍历性}{147}
+\indexentry{多体局域化}{147}
+\indexentry{随机矩阵}{147}
+\indexentry{高斯随机矩阵}{147}
+\indexentry{随机矩阵}{148}
+\indexentry{密度矩阵}{148}
+\indexentry{密度矩阵}{149}
+\indexentry{密度矩阵}{150}
+\indexentry{熵!冯·诺伊曼熵}{150}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{150}
+\indexentry{密度矩阵}{150}
+\indexentry{密度矩阵}{150}
+\indexentry{纠缠}{150}
+\indexentry{熵!纠缠熵}{150}
+\indexentry{量子纠缠}{150}
+\indexentry{熵!冯·诺伊曼熵}{151}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{151}
+\indexentry{密度矩阵}{151}
+\indexentry{多体局域化}{151}
+\indexentry{熵!冯·诺伊曼熵}{152}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{152}
+\indexentry{纠缠}{152}
+\indexentry{熵!纠缠熵}{152}
+\indexentry{量子纠缠}{152}
+\indexentry{本征态热化假说|)}{152}
+\indexentry{多体局域化}{152}
+\indexentry{DAA函数@$\updelta$ 函数}{152}
+\indexentry{关联!空间关联}{152}
+\indexentry{平均热波长}{153}
+\indexentry{熵!冯·诺伊曼熵}{153}
+\indexentry{冯诺伊曼熵@冯·诺伊曼熵}{153}
+\indexentry{量子统计|)}{155}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计|(}{157}
+\indexentry{理想气体!量子力学理想气体|(}{157}
+\indexentry{微观态|(}{157}
+\indexentry{配分函数!自由粒子系统的配分函数|(}{157}
+\indexentry{微正则系综|(}{157}
+\indexentry{不可分辨性!粒子的不可分辨性}{157}
+\indexentry{经典极限}{157}
+\indexentry{能量!能量单元}{157}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{159}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{159}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{159}
+\indexentry{最概然分布}{160}
+\indexentry{斯特林公式}{160}
+\indexentry{热力学压强}{161}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{161}
+\indexentry{经典系统!正则系综中的经典系统}{161}
+\indexentry{经典系统!微正则系综中的经典系统}{161}
+\indexentry{经典系统!巨正则系综中的经典系统}{161}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{161}
+\indexentry{q 势@$q$ 势!理想气体的 q 势@理想气体的 $q$ 势}{161}
+\indexentry{微观态|)}{161}
+\indexentry{配分函数!自由粒子系统的配分函数|)}{161}
+\indexentry{微正则系综|)}{161}
+\indexentry{正则系综}{161}
+\indexentry{配分函数!经典理想气体的配分函数}{162}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{162}
+\indexentry{平均热波长}{163}
+\indexentry{巨配分函数!理想气体的巨配分函数}{163}
+\indexentry{逸度}{164}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{164}
+\indexentry{理想气体!量子力学理想气体|)}{165}
+\indexentry{最概然值法}{165}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{165}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|(}{165}
+\indexentry{占有数|(}{165}
+\indexentry{量子统计}{165}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{165}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{165}
+\indexentry{逸度}{166}
+\indexentry{涨落!占有数的涨落}{166}
+\indexentry{黑体辐射}{167}
+\indexentry{关联!统计关联}{167}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统}{168}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{168}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计|)}{168}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{168}
+\indexentry{关联!统计关联}{168}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|)}{168}
+\indexentry{占有数|)}{168}
+\indexentry{热力学压强}{168}
+\indexentry{动力学压强}{170}
+\indexentry{泻流}{170}
+\indexentry{分子的内部运动|(}{171}
+\indexentry{简并性判据}{171}
+\indexentry{电离}{172}
+\indexentry{自旋简并性因子|(}{173}
+\indexentry{化学势}{173}
+\indexentry{双原子分子|(}{174}
+\indexentry{化学势}{174}
+\indexentry{自旋简并性因子|)}{174}
+\indexentry{比热!双原子分子气体的比热|(}{174}
+\indexentry{能量均分定理}{175}
+\indexentry{化学势}{176}
+\indexentry{刚性转子}{176}
+\indexentry{能量均分定理}{177}
+\indexentry{马尔霍兰德公式}{177}
+\indexentry{自旋和统计|(}{179}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计}{180}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦统计@玻色\bzx 爱因斯坦统计}{180}
+\indexentry{正成分}{181}
+\indexentry{仲成分}{181}
+\indexentry{催化剂}{182}
+\indexentry{比热!双原子分子气体的比热|)}{183}
+\indexentry{自旋和统计|)}{183}
+\indexentry{双原子分子|)}{183}
+\indexentry{多原子分子|(}{183}
+\indexentry{比热!多原子分子气体的比热}{183}
+\indexentry{能量均分定理}{183}
+\indexentry{谐振近似}{184}
+\indexentry{比热!多原子分子气体的比热}{184}
+\indexentry{分子的内部运动|)}{184}
+\indexentry{多原子分子|)}{184}
+\indexentry{化学平衡|(}{184}
+\indexentry{吉布斯自由能|(}{184}
+\indexentry{化学势}{184}
+\indexentry{化学计量系数}{184}
+\indexentry{催化剂}{185}
+\indexentry{亥姆霍兹自由能}{185}
+\indexentry{平衡!平衡常数}{185}
+\indexentry{质量作用定律}{185}
+\indexentry{化学势}{185}
+\indexentry{标准压强}{186}
+\indexentry{标准态}{186}
+\indexentry{燃烧}{186}
+\indexentry{二氧化碳}{186}
+\indexentry{水蒸气}{186}
+\indexentry{一氧化碳}{186}
+\indexentry{平衡!平衡常数}{186}
+\indexentry{催化剂}{186}
+\indexentry{催化式排气净化器}{186}
+\indexentry{化学平衡|)}{186}
+\indexentry{吉布斯自由能|)}{186}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{187}
+\indexentry{多普勒增宽}{188}
+\indexentry{气压公式}{189}
+\indexentry{相对论性气体}{189}
+\indexentry{平衡!平衡常数}{191}
+\indexentry{平衡!平衡常数}{192}
+\indexentry{平衡!平衡常数}{192}
+\indexentry{甲烷}{192}
+\indexentry{平衡!平衡常数}{192}
+\indexentry{化学计量点}{192}
+\indexentry{萨哈方程}{192}
+\indexentry{等离子体}{192}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{195}
+\indexentry{不可分辨性!粒子的不可分辨性}{195}
+\indexentry{热德布罗意波长}{195}
+\indexentry{平均热波长}{195}
+\indexentry{简并性判据}{195}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{195}
+\indexentry{理想气体!理想玻色气体}{196}
+\indexentry{巨配分函数!理想气体的巨配分函数}{196}
+\indexentry{逸度}{196}
+\indexentry{经典极限}{196}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{197}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦函数@玻色\bzx 爱因斯坦函数}{197}
+\indexentry{物态方程!玻色气体的物态方程}{197}
+\indexentry{物态方程!玻色气体的物态方程}{198}
+\indexentry{位力!物态方程的位力展式}{198}
+\indexentry{位力!位力系数}{198}
+\indexentry{比热!玻色气体的比热}{198}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{199}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{199}
+\indexentry{临界行为!玻色气体的临界行为|(}{199}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{200}
+\indexentry{逸度!玻色气体的逸度}{200}
+\indexentry{逸度!玻色气体的逸度}{201}
+\indexentry{经典极限}{202}
+\indexentry{比热!玻色气体的比热}{202}
+\indexentry{比热!玻色气体的比热}{203}
+\indexentry{比热!玻色气体的比热}{203}
+\indexentry{超流!液 $\prescript{4}{}{\text{He}}$ 中的超流相变}{204}
+\indexentry{超流的二流体模型}{204}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{204}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液He4的正常部分@液 $\prescript{4}{}{\text{He}}$ 的正常部分}{204}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液He4的比热@液 $\prescript{4}{}{\text{He}}$ 的比热}{205}
+\indexentry{lambda相变@$\lambda$~相变!液He4@液 $\prescript{4}{}{\text{He}}$ 中的 $\lambda$~相变}{205}
+\indexentry{等温线!玻色气体的等温线}{205}
+\indexentry{临界行为!玻色气体的临界行为|)}{205}
+\indexentry{绝热!绝热过程}{205}
+\indexentry{绝热线!玻色气体的绝热线}{205}
+\indexentry{绝热!绝热过程}{206}
+\indexentry{比热!玻色气体的比热}{206}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚|(}{207}
+\indexentry{超冷原子气体|(}{207}
+\indexentry{铷 (Rb)}{207}
+\indexentry{钠~(Na)}{207}
+\indexentry{磁阱|(}{207}
+\indexentry{激光致冷}{207}
+\indexentry{激光致冷}{207}
+\indexentry{谐振子|(}{207}
+\indexentry{蒸发致冷}{207}
+\indexentry{态密度}{208}
+\indexentry{逸度}{208}
+\indexentry{玻色凝聚分数}{208}
+\indexentry{热力学极限}{209}
+\indexentry{磁阱|)}{209}
+\indexentry{玻色凝聚分数}{209}
+\indexentry{蒸发致冷}{209}
+\indexentry{谐振子|)}{209}
+\indexentry{飞行时间!飞行时间实验}{209}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦分布函数@玻色\bzx 爱因斯坦分布函数}{210}
+\indexentry{内能|(}{211}
+\indexentry{热容}{211}
+\indexentry{逸度}{211}
+\indexentry{比热}{211}
+\indexentry{玻色凝聚峰}{212}
+\indexentry{铷 (Rb)}{212}
+\indexentry{玻色凝聚分数}{212}
+\indexentry{逸度}{213}
+\indexentry{热容}{213}
+\indexentry{比热}{213}
+\indexentry{铷 (Rb)}{213}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚|)}{214}
+\indexentry{内能|)}{214}
+\indexentry{超冷原子气体|)}{214}
+\indexentry{黑体辐射|(}{214}
+\indexentry{光子|(}{214}
+\indexentry{谐振子}{214}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{215}
+\indexentry{谐振子}{215}
+\indexentry{拉格朗日乘子法}{216}
+\indexentry{化学势!光子气的化学势}{216}
+\indexentry{逸度!光子气的逸度}{216}
+\indexentry{瑞利金斯定律@瑞利\bzx 金斯定律}{217}
+\indexentry{维恩分布律}{217}
+\indexentry{泻流!光子从辐射腔的泻流}{217}
+\indexentry{斯特藩\bzx 玻尔兹曼定律}{218}
+\indexentry{比热!黑体辐射的比热}{218}
+\indexentry{绝热线!黑体辐射的绝热线}{219}
+\indexentry{黑体辐射|)}{219}
+\indexentry{光子|)}{219}
+\indexentry{简正模!固体的简正模|(}{219}
+\indexentry{声波|(}{219}
+\indexentry{比热!谐振子系统的比热|(}{219}
+\indexentry{比热!固体的比热|(}{219}
+\indexentry{谐振近似}{220}
+\indexentry{谐振子}{220}
+\indexentry{零点能!固体的零点能}{221}
+\indexentry{占有数}{221}
+\indexentry{爱因斯坦函数}{221}
+\indexentry{占有数}{221}
+\indexentry{化学势!声子气的化学势}{221}
+\indexentry{逸度!声子气的逸度}{221}
+\indexentry{杜隆珀蒂定律@杜隆\bzx 珀蒂定律}{222}
+\indexentry{德拜函数}{223}
+\indexentry{德拜温度}{224}
+\indexentry{德拜函数}{224}
+\indexentry{比热!比热的德拜理论}{224}
+\indexentry{比热!比热的 $T^3$ 律}{224}
+\indexentry{德拜温度}{225}
+\indexentry{简正模!固体的简正模|)}{225}
+\indexentry{比热!比热的 $T^3$ 律}{225}
+\indexentry{比热!比热的德拜理论}{225}
+\indexentry{德拜温度}{225}
+\indexentry{简正模!液体的简正模}{226}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{226}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液He4的比热@液 $\prescript{4}{}{\text{He}}$ 的比热}{226}
+\indexentry{声波|)}{226}
+\indexentry{比热!谐振子系统的比热|)}{226}
+\indexentry{比热!固体的比热|)}{226}
+\indexentry{元激发!元激发的惯性密度|(}{226}
+\indexentry{声波!声波的惯性密度|(}{226}
+\indexentry{整体运动|(}{226}
+\indexentry{声子!做整体运动的声子|(}{226}
+\indexentry{占有数}{227}
+\indexentry{占有数}{228}
+\indexentry{超流的临界速度}{228}
+\indexentry{声子!液氦~I\"!I 中的声子}{228}
+\indexentry{整体运动|)}{229}
+\indexentry{声子!做整体运动的声子|)}{229}
+\indexentry{元激发!元激发的惯性密度|)}{229}
+\indexentry{声波!声波的惯性密度|)}{229}
+\indexentry{元激发!液氦~I\"!I 中的元激发|(}{229}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液He4的正常部分@液 $\prescript{4}{}{\text{He}}$ 的正常部分}{229}
+\indexentry{声子!液氦~I\"!I 中的声子}{230}
+\indexentry{旋子!液氦~I\"!I 中的旋子|(}{231}
+\indexentry{占有数}{233}
+\indexentry{元激发!元激发的惯性密度}{234}
+\indexentry{占有数}{234}
+\indexentry{整体运动}{234}
+\indexentry{超流!整体运动}{234}
+\indexentry{lambda相变@$\lambda$~相变!液He4@液 $\prescript{4}{}{\text{He}}$ 中的 $\lambda$~相变}{235}
+\indexentry{超流!液 $\prescript{4}{}{\text{He}}$ 中的超流相变}{235}
+\indexentry{有效质量}{235}
+\indexentry{比热!液氦~I\"!I 的比热}{235}
+\indexentry{整体运动}{236}
+\indexentry{声子!做整体运动的声子}{236}
+\indexentry{朗道超流判据}{236}
+\indexentry{超流动性!朗道超流判据}{236}
+\indexentry{超流的临界速度}{236}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚}{236}
+\indexentry{超流动性!超流动性破失}{236}
+\indexentry{超固体}{237}
+\indexentry{元激发!液氦~I\"!I 中的元激发|)}{237}
+\indexentry{旋子!液氦~I\"!I 中的旋子|)}{237}
+\indexentry{位力!物态方程的位力展式}{237}
+\indexentry{比热!玻色气体的比热}{237}
+\indexentry{压缩率!绝热压缩率}{237}
+\indexentry{压缩率!等温压缩率}{237}
+\indexentry{比热!玻色气体的比热}{238}
+\indexentry{谐振子}{239}
+\indexentry{谐振子}{240}
+\indexentry{谐振子}{240}
+\indexentry{光子}{240}
+\indexentry{光子}{240}
+\indexentry{零点能!固体的零点能}{241}
+\indexentry{零点能!固体的零点能}{241}
+\indexentry{简正模!固体的简正模}{241}
+\indexentry{简正模!固体的简正模}{241}
+\indexentry{平均热波长}{241}
+\indexentry{比热!固体的比热}{242}
+\indexentry{热膨胀系数}{242}
+\indexentry{整体运动}{242}
+\indexentry{元激发!元激发的惯性密度}{243}
+\indexentry{声子!声子的有效质量}{243}
+\indexentry{谐振子}{243}
+\indexentry{谐振子}{243}
+\indexentry{热容}{243}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{243}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|(}{245}
+\indexentry{理想气体!理想费米气体|(}{245}
+\indexentry{巨配分函数!理想气体的巨配分函数}{245}
+\indexentry{泡利不相容原理}{245}
+\indexentry{平均热波长}{245}
+\indexentry{费米狄拉克函数@费米\bzx 狄拉克函数}{246}
+\indexentry{基态性质!费米气体的基态性质|(}{247}
+\indexentry{物态方程!费米气体的物态方程}{247}
+\indexentry{比热!费米气体的比热}{247}
+\indexentry{费米简并}{247}
+\indexentry{占有数}{248}
+\indexentry{费米能}{248}
+\indexentry{费米动量}{248}
+\indexentry{零点能!费米系统的零点能}{249}
+\indexentry{泡利不相容原理}{249}
+\indexentry{基态性质!费米气体的基态性质|)}{249}
+\indexentry{索末菲引理}{250}
+\indexentry{比热!费米气体的比热}{251}
+\indexentry{费米温度}{251}
+\indexentry{化学势!费米气体的化学势}{251}
+\indexentry{热力学第三定律}{251}
+\indexentry{比热!费米气体的比热}{251}
+\indexentry{居里定律}{252}
+\indexentry{抗磁性!朗道抗磁性}{252}
+\indexentry{朗道抗磁性}{252}
+\indexentry{居里定律}{252}
+\indexentry{顺磁性|(}{252}
+\indexentry{泡利顺磁性|(}{252}
+\indexentry{基态性质!费米气体的基态性质}{253}
+\indexentry{磁化率!费米气体的磁化率}{253}
+\indexentry{零点磁化率!费米系统的零点磁化率}{253}
+\indexentry{配分函数!费米气体的配分函数}{253}
+\indexentry{配分函数!费米气体的配分函数}{254}
+\indexentry{化学势!费米气体的化学势}{255}
+\indexentry{磁化率!费米气体的磁化率}{255}
+\indexentry{基态性质!费米气体的基态性质}{255}
+\indexentry{费米能}{256}
+\indexentry{零点磁化率!费米系统的零点磁化率}{256}
+\indexentry{磁化率!费米气体的磁化率}{256}
+\indexentry{化学势!费米气体的化学势}{256}
+\indexentry{顺磁性|)}{256}
+\indexentry{泡利顺磁性|)}{256}
+\indexentry{抗磁性!朗道抗磁性|(}{256}
+\indexentry{朗道抗磁性|(}{256}
+\indexentry{平均热波长}{258}
+\indexentry{朗之万函数}{258}
+\indexentry{玻尔范莱文定理@玻尔\bzx 范莱文定理}{259}
+\indexentry{居里定律}{259}
+\indexentry{磁化率!费米气体的磁化率}{259}
+\indexentry{有效质量}{259}
+\indexentry{零点磁化率!费米系统的零点磁化率}{260}
+\indexentry{抗磁性!朗道抗磁性|)}{260}
+\indexentry{朗道抗磁性|)}{260}
+\indexentry{理想气体!理想费米气体|)}{260}
+\indexentry{泻流!电子从金属的泻流|(}{260}
+\indexentry{金属中的电子气|(}{260}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{260}
+\indexentry{能量均分定理}{260}
+\indexentry{顺磁性}{260}
+\indexentry{传导率!热导率}{261}
+\indexentry{传导率!电导率}{261}
+\indexentry{维德曼弗兰兹定律@维德曼\bzx 弗兰兹定律}{261}
+\indexentry{洛伦茨数}{261}
+\indexentry{费米狄拉克统计@费米\bzx 狄拉克统计}{261}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计}{261}
+\indexentry{索末菲金属理论}{261}
+\indexentry{费米能}{261}
+\indexentry{有效质量}{261}
+\indexentry{费米温度}{262}
+\indexentry{比热!费米气体的比热}{262}
+\indexentry{比热!固体的比热}{262}
+\indexentry{费米能}{262}
+\indexentry{德拜温度}{262}
+\indexentry{比热!费米气体的比热}{263}
+\indexentry{维德曼弗兰兹定律@维德曼\bzx 弗兰兹定律}{263}
+\indexentry{洛伦茨数}{263}
+\indexentry{光电发射}{263}
+\indexentry{理查森效应|(}{264}
+\indexentry{热电荷发射|(}{264}
+\indexentry{费米能}{265}
+\indexentry{化学势!费米气体的化学势}{265}
+\indexentry{逸度!费米气体的逸度}{265}
+\indexentry{功函数}{265}
+\indexentry{功函数}{265}
+\indexentry{费米能}{266}
+\indexentry{费米狄拉克分布@费米\bzx 狄拉克分布}{266}
+\indexentry{肖特基效应}{266}
+\indexentry{肖特基效应}{267}
+\indexentry{理查森效应|)}{267}
+\indexentry{热电荷发射|)}{267}
+\indexentry{光电发射|(}{268}
+\indexentry{索末菲引理}{269}
+\indexentry{功函数}{269}
+\indexentry{费米能}{269}
+\indexentry{福勒标绘图}{269}
+\indexentry{泻流!电子从金属的泻流|)}{269}
+\indexentry{金属中的电子气|)}{269}
+\indexentry{光电发射|)}{269}
+\indexentry{超冷原子气体}{270}
+\indexentry{激光致冷}{270}
+\indexentry{磁阱}{270}
+\indexentry{态密度}{270}
+\indexentry{费米能}{270}
+\indexentry{费米温度}{270}
+\indexentry{飞行时间}{270}
+\indexentry{白矮星|(}{272}
+\indexentry{费米动量}{272}
+\indexentry{费米能}{272}
+\indexentry{费米温度}{272}
+\indexentry{相对论性气体!相对论性电子气|(}{272}
+\indexentry{基态性质!费米气体的基态性质}{273}
+\indexentry{相对论性气体!相对论性费米气体}{273}
+\indexentry{相对论性气体!相对论性电子气|)}{274}
+\indexentry{零点压强!费米系统的零点压强}{274}
+\indexentry{零点压强!费米系统的零点压强}{275}
+\indexentry{白矮星的质量半径关系@白矮星的质量\bzx 半径关系}{275}
+\indexentry{钱德拉塞卡极限}{276}
+\indexentry{泡利不相容原理}{276}
+\indexentry{超新星}{276}
+\indexentry{白矮星|)}{276}
+\indexentry{白矮星的质量半径关系@白矮星的质量\bzx 半径关系}{277}
+\indexentry{托马斯费米模型@托马斯\bzx 费米模型|(}{277}
+\indexentry{原子的托马斯\bzx 费米结合能|(}{277}
+\indexentry{费米动量}{277}
+\indexentry{泊松方程}{278}
+\indexentry{零点能!费米系统的零点能}{281}
+\indexentry{托马斯费米模型@托马斯\bzx 费米模型|)}{281}
+\indexentry{原子的托马斯\bzx 费米结合能|)}{281}
+\indexentry{化学势!费米气体的化学势|(}{281}
+\indexentry{基态性质!费米气体的基态性质}{281}
+\indexentry{比热!费米气体的比热}{281}
+\indexentry{压缩率!等温压缩率}{282}
+\indexentry{压缩率!绝热压缩率}{282}
+\indexentry{费米速度}{283}
+\indexentry{费米能}{283}
+\indexentry{绝热线!费米气体的绝热线}{283}
+\indexentry{基态性质!费米气体的基态性质}{284}
+\indexentry{比热!费米气体的比热}{284}
+\indexentry{逸度!费米气体的逸度}{284}
+\indexentry{态密度!自由粒子的态密度}{284}
+\indexentry{化学势!费米气体的化学势|)}{284}
+\indexentry{顺磁性}{284}
+\indexentry{泡利顺磁性}{284}
+\indexentry{磁化率!费米气体的磁化率}{284}
+\indexentry{费米能}{285}
+\indexentry{相对论性气体!相对论性电子气}{285}
+\indexentry{基态性质!费米气体的基态性质}{285}
+\indexentry{比热!费米气体的比热}{285}
+\indexentry{位力!位力定理}{285}
+\indexentry{比热!费米气体的比热}{286}
+\indexentry{态密度}{286}
+\indexentry{费米能}{286}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|)}{286}
+\indexentry{早期宇宙|(}{287}
+\indexentry{早期宇宙热力学|(}{287}
+\indexentry{大爆炸|(}{288}
+\indexentry{哈勃膨胀}{288}
+\indexentry{标准烛光}{288}
+\indexentry{宇宙学红移}{288}
+\indexentry{标准烛光}{288}
+\indexentry{超新星}{288}
+\indexentry{造父变星}{288}
+\indexentry{哈勃参数|(}{288}
+\indexentry{哈勃弗里德曼关系式@哈勃\bzx 弗里德曼关系式}{288}
+\indexentry{能量!能量密度}{288}
+\indexentry{百万秒差距}{288}
+\indexentry{光年}{288}
+\indexentry{最后散射}{288}
+\indexentry{标准烛光}{289}
+\indexentry{百万秒差距}{289}
+\indexentry{光年}{289}
+\indexentry{黑体辐射|(}{290}
+\indexentry{CMB|(}{290}
+\indexentry{COBE}{290}
+\indexentry{WMAP}{290}
+\indexentry{等离子体}{290}
+\indexentry{质子}{290}
+\indexentry{复合}{290}
+\indexentry{最后散射}{290}
+\indexentry{数密度}{290}
+\indexentry{能量!能量密度}{290}
+\indexentry{WMAP}{290}
+\indexentry{能量!能量密度}{290}
+\indexentry{暗能量}{290}
+\indexentry{暗物质}{290}
+\indexentry{重子数密度}{290}
+\indexentry{数密度}{291}
+\indexentry{数密度}{291}
+\indexentry{黑体辐射|)}{291}
+\indexentry{CMB|)}{291}
+\indexentry{哈勃参数|)}{291}
+\indexentry{熵!熵密度}{291}
+\indexentry{重子光子比@重子\bzx 光子比}{291}
+\indexentry{WMAP}{291}
+\indexentry{能量!能量密度}{291}
+\indexentry{复合}{291}
+\indexentry{中微子}{291}
+\indexentry{暗能量}{291}
+\indexentry{最后散射}{291}
+\indexentry{黑暗时期}{291}
+\indexentry{数密度}{291}
+\indexentry{核合成}{291}
+\indexentry{COBE}{292}
+\indexentry{WMAP}{292}
+\indexentry{重子光子比@重子\bzx 光子比}{293}
+\indexentry{大爆炸|)}{294}
+\indexentry{大爆炸}{294}
+\indexentry{哈勃膨胀}{294}
+\indexentry{哈勃参数}{294}
+\indexentry{复合}{294}
+\indexentry{等离子体}{294}
+\indexentry{汤姆孙散射}{294}
+\indexentry{能量!能量密度}{294}
+\indexentry{黑体辐射}{294}
+\indexentry{夸克胶子等离子体@夸克\bzx 胶子等离子体}{294}
+\indexentry{重子光子比@重子\bzx 光子比}{294}
+\indexentry{最后散射}{294}
+\indexentry{复合}{294}
+\indexentry{等离子体}{294}
+\indexentry{RHIC}{294}
+\indexentry{能量!能量密度}{295}
+\indexentry{黑体辐射}{295}
+\indexentry{黑暗时期}{296}
+\indexentry{电子|(}{296}
+\indexentry{中微子|(}{296}
+\indexentry{正电子|(}{296}
+\indexentry{自旋简并性因子}{296}
+\indexentry{螺旋性}{296}
+\indexentry{能量!能量密度}{296}
+\indexentry{数密度}{296}
+\indexentry{压强}{296}
+\indexentry{熵!熵密度}{296}
+\indexentry{WMAP}{296}
+\indexentry{CMB}{296}
+\indexentry{压强}{297}
+\indexentry{自旋简并性因子}{297}
+\indexentry{能量!能量密度}{297}
+\indexentry{熵!熵密度}{297}
+\indexentry{数密度}{297}
+\indexentry{能量!能量密度}{297}
+\indexentry{压强}{297}
+\indexentry{自旋简并性因子}{298}
+\indexentry{绝热}{298}
+\indexentry{熵!熵密度}{298}
+\indexentry{电子|)}{298}
+\indexentry{中微子|)}{298}
+\indexentry{正电子|)}{298}
+\indexentry{中子|(}{298}
+\indexentry{质子|(}{298}
+\indexentry{BAA平衡@$\upbeta$ 平衡}{299}
+\indexentry{热德布罗意波长}{299}
+\indexentry{重子数密度}{299}
+\indexentry{数密度}{299}
+\indexentry{BAA衰变@$\upbeta$ 衰变}{299}
+\indexentry{核合成}{300}
+\indexentry{中子|)}{300}
+\indexentry{正负电子湮灭|(}{300}
+\indexentry{电子|(}{300}
+\indexentry{正电子|(}{300}
+\indexentry{大爆炸}{300}
+\indexentry{数密度}{300}
+\indexentry{数密度}{300}
+\indexentry{数密度}{301}
+\indexentry{重子光子比@重子\bzx 光子比}{301}
+\indexentry{复合}{301}
+\indexentry{正负电子湮灭|)}{301}
+\indexentry{电子|)}{301}
+\indexentry{正电子|)}{301}
+\indexentry{中微子|(}{302}
+\indexentry{BAA平衡@$\upbeta$ 平衡}{302}
+\indexentry{绝热}{302}
+\indexentry{大爆炸}{302}
+\indexentry{CnB@$\text{C}{\upnu}\text{B}$}{302}
+\indexentry{中微子|)}{302}
+\indexentry{核合成|(}{303}
+\indexentry{大爆炸}{303}
+\indexentry{黑体辐射}{303}
+\indexentry{氘}{303}
+\indexentry{氦4@氦~4 ($\prescript{4}{}{\text{He}}$)}{303}
+\indexentry{中子}{303}
+\indexentry{数密度}{303}
+\indexentry{重子光子比@重子\bzx 光子比}{303}
+\indexentry{数密度}{303}
+\indexentry{氘}{303}
+\indexentry{萨哈方程}{304}
+\indexentry{重子光子比@重子\bzx 光子比}{304}
+\indexentry{重子光子比@重子\bzx 光子比}{304}
+\indexentry{氦3@氦~3 ($\prescript{3}{}{\text{He}}$)}{304}
+\indexentry{氦4@氦~4 ($\prescript{4}{}{\text{He}}$)}{304}
+\indexentry{核合成|)}{305}
+\indexentry{复合|(}{305}
+\indexentry{等离子体}{305}
+\indexentry{里德伯}{305}
+\indexentry{CMB}{305}
+\indexentry{最后散射}{305}
+\indexentry{数密度}{306}
+\indexentry{热德布罗意波长}{306}
+\indexentry{数密度}{306}
+\indexentry{萨哈方程}{306}
+\indexentry{等离子体}{306}
+\indexentry{重子光子比@重子\bzx 光子比}{306}
+\indexentry{早期宇宙|)}{306}
+\indexentry{最后散射}{306}
+\indexentry{质子|)}{306}
+\indexentry{复合|)}{306}
+\indexentry{早期宇宙热力学|)}{306}
+\indexentry{最后散射}{307}
+\indexentry{大爆炸}{307}
+\indexentry{黑暗时期}{307}
+\indexentry{等离子体}{307}
+\indexentry{CMB}{307}
+\indexentry{复合}{307}
+\indexentry{暗物质}{307}
+\indexentry{超新星}{307}
+\indexentry{RHIC}{309}
+\indexentry{经典系统!有相互作用的经典系统|(}{311}
+\indexentry{集团展开!经典集团展开|(}{311}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统|(}{311}
+\indexentry{密度矩阵!相互作用粒子系统的密度矩阵|(}{311}
+\indexentry{配分函数!相互作用系统的配分函数|(}{312}
+\indexentry{平均热波长}{312}
+\indexentry{位形积分}{312}
+\indexentry{迈耶函数}{312}
+\indexentry{迈耶函数}{313}
+\indexentry{位形积分}{313}
+\indexentry{位形积分}{313}
+\indexentry{集团积分}{315}
+\indexentry{集团积分}{315}
+\indexentry{配分函数!相互作用系统的配分函数|)}{316}
+\indexentry{位形积分}{317}
+\indexentry{巨配分函数!非理想气体的巨配分函数}{317}
+\indexentry{集团展开!经典集团展开|)}{318}
+\indexentry{物态方程!经典系统的物态方程|(}{318}
+\indexentry{位力!物态方程的位力展式|(}{318}
+\indexentry{集团积分}{318}
+\indexentry{位力!位力系数|(}{319}
+\indexentry{集团积分}{319}
+\indexentry{集团积分!不可约集团积分}{319}
+\indexentry{位力!物态方程的位力展式|)}{320}
+\indexentry{伦纳德琼斯势@伦纳德\bzx 琼斯势}{320}
+\indexentry{范德瓦尔斯物态方程}{321}
+\indexentry{范德瓦尔斯物态方程}{321}
+\indexentry{伦纳德琼斯势@伦纳德\bzx 琼斯势}{322}
+\indexentry{伦纳德琼斯势@伦纳德\bzx 琼斯势}{322}
+\indexentry{Carnahan-Starling 物态方程}{325}
+\indexentry{硬球流体}{325}
+\indexentry{经典系统!有相互作用的经典系统|)}{325}
+\indexentry{玻尔兹曼系统!经典玻尔兹曼系统|)}{325}
+\indexentry{物态方程!经典系统的物态方程|)}{325}
+\indexentry{集团展开!一般集团展开|(}{325}
+\indexentry{迈耶集团展开理论|(}{325}
+\indexentry{集团积分}{326}
+\indexentry{巨配分函数!非理想气体的巨配分函数}{326}
+\indexentry{配分函数!相互作用系统的配分函数}{326}
+\indexentry{位形积分}{326}
+\indexentry{集团积分}{326}
+\indexentry{集团积分}{326}
+\indexentry{集团积分!不可约集团积分}{327}
+\indexentry{位力!位力系数|)}{327}
+\indexentry{物态方程!经典系统的物态方程|(}{327}
+\indexentry{集团积分!不可约集团积分}{328}
+\indexentry{物态方程!量子力学系统的物态方程}{328}
+\indexentry{集团积分!不可约集团积分}{328}
+\indexentry{物态方程!量子力学系统的物态方程}{329}
+\indexentry{集团展开!一般集团展开|)}{330}
+\indexentry{密度矩阵!相互作用粒子系统的密度矩阵|)}{330}
+\indexentry{物态方程!经典系统的物态方程|)}{330}
+\indexentry{迈耶集团展开理论|)}{330}
+\indexentry{位力!位力系数|(}{330}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{330}
+\indexentry{贝思乌伦贝克表述形式@贝思\bzx 乌伦贝克表述形式|(}{330}
+\indexentry{位形积分}{333}
+\indexentry{集团积分}{333}
+\indexentry{统计势}{334}
+\indexentry{物态方程!玻色气体的物态方程}{335}
+\indexentry{物态方程!费米气体的物态方程}{335}
+\indexentry{贝思乌伦贝克表述形式@贝思\bzx 乌伦贝克表述形式|)}{335}
+\indexentry{位力!位力系数|)}{335}
+\indexentry{集团展开!量子力学集团展开|(}{335}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|(}{335}
+\indexentry{集团积分}{335}
+\indexentry{配分函数!相互作用系统的配分函数|(}{336}
+\indexentry{概率密度算符}{336}
+\indexentry{位形积分}{336}
+\indexentry{概率密度算符}{336}
+\indexentry{概率密度算符}{337}
+\indexentry{平均热波长}{337}
+\indexentry{迈耶函数}{338}
+\indexentry{集团函数}{338}
+\indexentry{位形积分}{338}
+\indexentry{集团积分}{339}
+\indexentry{物态方程!量子力学系统的物态方程}{340}
+\indexentry{集团积分}{340}
+\indexentry{二体碰撞法}{341}
+\indexentry{玻尔兹曼系统!量子力学玻尔兹曼系统}{341}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{341}
+\indexentry{集团展开!量子力学集团展开|)}{341}
+\indexentry{配分函数!相互作用系统的配分函数|)}{341}
+\indexentry{关联|(}{341}
+\indexentry{散射|(}{341}
+\indexentry{短程序}{341}
+\indexentry{晶状固体}{341}
+\indexentry{常程序@长程序}{341}
+\indexentry{准常程序@准长程序}{341}
+\indexentry{液晶}{341}
+\indexentry{关联!空间关联}{341}
+\indexentry{nAA@$n$~粒子密度}{341}
+\indexentry{关联函数!流体的关联函数|(}{341}
+\indexentry{单体密度}{341}
+\indexentry{二体密度}{342}
+\indexentry{对关联函数|(}{342}
+\indexentry{关联函数}{342}
+\indexentry{硬球流体}{342}
+\indexentry{短程序}{342}
+\indexentry{关联长度}{342}
+\indexentry{关联长度!流体中的关联长度}{342}
+\indexentry{正则系综}{342}
+\indexentry{Percus-Yevick 近似}{343}
+\indexentry{关联长度}{343}
+\indexentry{关联长度!流体中的关联长度}{343}
+\indexentry{硬球流体}{343}
+\indexentry{硬碟流体}{343}
+\indexentry{位力}{344}
+\indexentry{位力!位力物态方程}{344}
+\indexentry{硬球流体}{344}
+\indexentry{内能}{344}
+\indexentry{压缩率!等温压缩率}{344}
+\indexentry{压缩率!压缩率物态方程}{344}
+\indexentry{关联函数!流体的关联函数|)}{344}
+\indexentry{静态结构因子|(}{345}
+\indexentry{准弹性散射}{345}
+\indexentry{散射!形式因子}{345}
+\indexentry{形状散射}{345}
+\indexentry{热力学极限}{345}
+\indexentry{结构因子}{346}
+\indexentry{短程序}{346}
+\indexentry{涨落压缩率关系@涨落\bzx 压缩率关系}{346}
+\indexentry{涨落\bzx 耗散定理}{346}
+\indexentry{氩}{347}
+\indexentry{结构因子}{347}
+\indexentry{中子散射}{347}
+\indexentry{对关联函数|)}{347}
+\indexentry{静态结构因子|)}{347}
+\indexentry{晶状固体}{347}
+\indexentry{结构因子!固体的结构因子|(}{347}
+\indexentry{布拉格峰}{347}
+\indexentry{布拉格峰}{348}
+\indexentry{Debye-Waller 因子}{348}
+\indexentry{布拉格峰}{348}
+\indexentry{常程序@长程序}{348}
+\indexentry{晶状固体}{348}
+\indexentry{Kosterlitz-Thouless 相变}{348}
+\indexentry{六角相}{348}
+\indexentry{关联|)}{348}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|)}{348}
+\indexentry{散射|)}{348}
+\indexentry{结构因子!固体的结构因子|)}{348}
+\indexentry{萨瑟兰势}{348}
+\indexentry{范德瓦尔斯物态方程}{349}
+\indexentry{绝热!绝热过程}{349}
+\indexentry{焦耳汤姆孙系数@焦耳\bzx 汤姆孙系数}{349}
+\indexentry{硬球流体}{350}
+\indexentry{玻尔兹曼系统!量子力学玻尔兹曼系统}{350}
+\indexentry{贝思乌伦贝克表述形式@贝思\bzx 乌伦贝克表述形式}{350}
+\indexentry{对关联函数}{350}
+\indexentry{硬球流体}{351}
+\indexentry{对关联函数}{351}
+\indexentry{玻尔兹曼因子}{351}
+\indexentry{对关联函数}{351}
+\indexentry{对关联函数}{351}
+\indexentry{密度涨落}{351}
+\indexentry{经典极限}{351}
+\indexentry{迈耶函数}{352}
+\indexentry{压缩率!等温压缩率}{352}
+\indexentry{Carnahan-Starling 物态方程}{352}
+\indexentry{压缩率!等温压缩率}{352}
+\indexentry{量子化场|(}{353}
+\indexentry{场论方法|(}{353}
+\indexentry{二次量子化|(}{353}
+\indexentry{波函数的对称性|(}{354}
+\indexentry{波函数的对称性|)}{356}
+\indexentry{泡利不相容原理}{358}
+\indexentry{粒子数表示}{359}
+\indexentry{泡利不相容原理}{360}
+\indexentry{散射!散射长度}{362}
+\indexentry{平均热波长}{362}
+\indexentry{散射!散射长度}{362}
+\indexentry{散射!散射长度}{362}
+\indexentry{场论方法|)}{362}
+\indexentry{二次量子化|)}{362}
+\indexentry{赝势法}{362}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{363}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!有相互作用的玻色\bzx 爱因斯坦凝聚|(}{363}
+\indexentry{非理想玻色气体|(}{363}
+\indexentry{玻色气体!非理想玻色气体|(}{363}
+\indexentry{基态性质!玻色气体的基态性质|(}{363}
+\indexentry{化学势!玻色气体的化学势|(}{364}
+\indexentry{配分函数!玻色气体的配分函数}{364}
+\indexentry{赝势法}{365}
+\indexentry{逸度}{365}
+\indexentry{化学势!玻色气体的化学势|)}{365}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚|(}{365}
+\indexentry{超冷原子气体|(}{365}
+\indexentry{散射!散射长度}{365}
+\indexentry{Gross-Pitaevskii 方程}{365}
+\indexentry{二体碰撞法}{365}
+\indexentry{谐振子}{366}
+\indexentry{逸度!玻色气体的逸度}{366}
+\indexentry{散射!散射长度}{366}
+\indexentry{Feshbach 共振}{366}
+\indexentry{散射!散射长度}{366}
+\indexentry{Gross-Pitaevskii 方程}{366}
+\indexentry{拉格朗日乘子法}{366}
+\indexentry{Gross-Pitaevskii 方程}{366}
+\indexentry{散射!散射长度}{366}
+\indexentry{托马斯费米方程@托马斯\bzx 费米方程}{367}
+\indexentry{飞行时间}{367}
+\indexentry{Feshbach 共振}{368}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚|)}{368}
+\indexentry{基态性质!玻色气体的基态性质|)}{368}
+\indexentry{超冷原子气体|)}{368}
+\indexentry{谐振子}{368}
+\indexentry{元激发!非理想玻色气体中的元激发|(}{368}
+\indexentry{Bogoliubov 变换}{370}
+\indexentry{二体碰撞法}{371}
+\indexentry{赝势法}{371}
+\indexentry{硬球流体}{371}
+\indexentry{赝势法}{371}
+\indexentry{零点压强!玻色系统的零点压强}{372}
+\indexentry{零点能!玻色系统的零点能}{372}
+\indexentry{非理想玻色气体|)}{373}
+\indexentry{玻色气体!非理想玻色气体|)}{373}
+\indexentry{元激发!非理想玻色气体中的元激发|)}{373}
+\indexentry{占有数}{373}
+\indexentry{赝势法}{373}
+\indexentry{元激发!玻色液体中的元激发|(}{373}
+\indexentry{玻色液体中元激发的朗道能谱|(}{373}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液氦4@液~$\prescript{4}{}{\text{He}}$ 中的元激发|(}{373}
+\indexentry{声子}{373}
+\indexentry{经典极限}{373}
+\indexentry{旋子!玻色流体中的旋子|(}{373}
+\indexentry{Bogoliubov 变换}{373}
+\indexentry{赝势法}{373}
+\indexentry{费曼的玻色液体理论}{374}
+\indexentry{结构因子!液体的结构因子}{374}
+\indexentry{关联函数!流体的关联函数}{374}
+\indexentry{对关联函数}{374}
+\indexentry{结构因子!液体的结构因子}{375}
+\indexentry{声子}{375}
+\indexentry{旋子!玻色流体中的旋子|)}{375}
+\indexentry{玻色液体中元激发的朗道能谱|)}{375}
+\indexentry{液He4@液 $\prescript{4}{}{\text{He}}$!液氦4@液~$\prescript{4}{}{\text{He}}$ 中的元激发|)}{375}
+\indexentry{量子化环流|(}{376}
+\indexentry{整体运动!非均匀整体运动|(}{376}
+\indexentry{超流!整体运动|(}{376}
+\indexentry{费曼环流定理}{376}
+\indexentry{整体运动}{376}
+\indexentry{库珀对}{378}
+\indexentry{超导体}{378}
+\indexentry{迈斯纳效应}{378}
+\indexentry{超导体中的磁通量量子化}{378}
+\indexentry{量子化磁通量}{378}
+\indexentry{磁通量量子化}{378}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统!非均匀玻色\bzx 爱因斯坦系统|(}{379}
+\indexentry{超固体}{382}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统!非均匀玻色\bzx 爱因斯坦系统|)}{382}
+\indexentry{量子化环流|)}{382}
+\indexentry{元激发!玻色液体中的元激发|)}{382}
+\indexentry{整体运动!非均匀整体运动|)}{382}
+\indexentry{超流动性!超流动性破失|(}{382}
+\indexentry{超流的临界速度}{382}
+\indexentry{超流动性!朗道超流判据}{384}
+\indexentry{超流的临界速度}{384}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{385}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!有相互作用的玻色\bzx 爱因斯坦凝聚|)}{385}
+\indexentry{超流动性!超流动性破失|)}{385}
+\indexentry{超流!整体运动|)}{385}
+\indexentry{费米气体!非理想费米气体|(}{386}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|(}{386}
+\indexentry{微扰论}{387}
+\indexentry{占有数}{387}
+\indexentry{平均热波长}{387}
+\indexentry{费米狄拉克函数@费米\bzx 狄拉克函数}{387}
+\indexentry{基态性质!费米气体的基态性质}{389}
+\indexentry{基态性质!费米气体的基态性质}{390}
+\indexentry{赝势法}{390}
+\indexentry{二体碰撞法}{390}
+\indexentry{费米气体!非理想费米气体|)}{390}
+\indexentry{元激发!费米液体中的元激发|(}{391}
+\indexentry{费米液体!费米液体的能谱|(}{391}
+\indexentry{朗道的费米液体理论|(}{391}
+\indexentry{费米狄拉克函数@费米\bzx 狄拉克函数}{392}
+\indexentry{费米动量}{393}
+\indexentry{有效质量}{393}
+\indexentry{有效质量}{393}
+\indexentry{基态性质!费米气体的基态性质|(}{395}
+\indexentry{压缩率!等温压缩率}{395}
+\indexentry{化学势!费米液体的化学势}{395}
+\indexentry{压缩率!绝热压缩率}{395}
+\indexentry{散射!散射长度}{396}
+\indexentry{元激发!费米液体中的元激发|)}{397}
+\indexentry{费米液体!费米液体的能谱|)}{397}
+\indexentry{费米狄拉克系统@费米\bzx 狄拉克系统|)}{397}
+\indexentry{基态性质!费米气体的基态性质|)}{397}
+\indexentry{朗道的费米液体理论|)}{397}
+\indexentry{BCS|(}{397}
+\indexentry{库珀对}{397}
+\indexentry{凝聚}{397}
+\indexentry{凝聚!费米系统的凝聚}{397}
+\indexentry{凝聚}{397}
+\indexentry{凝聚!费米系统的凝聚}{397}
+\indexentry{Feshbach 共振}{397}
+\indexentry{凝聚}{397}
+\indexentry{凝聚!费米系统的凝聚}{397}
+\indexentry{Feshbach 共振}{398}
+\indexentry{凝聚}{398}
+\indexentry{凝聚!费米系统的凝聚}{398}
+\indexentry{库珀对}{398}
+\indexentry{费米温度}{398}
+\indexentry{散射!散射长度}{398}
+\indexentry{Feshbach 共振}{398}
+\indexentry{BCS\bzx BEC 跨接}{398}
+\indexentry{BCS|)}{398}
+\indexentry{Feshbach 共振}{399}
+\indexentry{超冷原子气体}{399}
+\indexentry{飞行时间}{399}
+\indexentry{Feshbach 共振}{399}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!有相互作用的玻色\bzx 爱因斯坦凝聚}{400}
+\indexentry{巨配分函数!非理想气体的巨配分函数}{400}
+\indexentry{逸度!玻色气体的逸度}{400}
+\indexentry{比热!非理想气体的比热}{400}
+\indexentry{基态性质!玻色气体的基态性质}{400}
+\indexentry{元激发!非理想玻色气体中的元激发}{401}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!有相互作用的玻色\bzx 爱因斯坦凝聚}{401}
+\indexentry{零点压强!玻色系统的零点压强}{401}
+\indexentry{零点能!玻色系统的零点能}{401}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!有相互作用的玻色\bzx 爱因斯坦凝聚}{401}
+\indexentry{占有数}{401}
+\indexentry{元激发!玻色液体中的元激发}{401}
+\indexentry{量子化环流}{401}
+\indexentry{二体碰撞法}{402}
+\indexentry{赝势法}{402}
+\indexentry{逸度!费米气体的逸度}{403}
+\indexentry{零点能!费米系统的零点能}{403}
+\indexentry{零点压强!费米系统的零点压强}{403}
+\indexentry{化学势!费米液体的化学势}{404}
+\indexentry{费米能}{404}
+\indexentry{基态性质!费米气体的基态性质}{404}
+\indexentry{费米气体!非理想费米气体}{404}
+\indexentry{磁化率!费米气体的磁化率}{404}
+\indexentry{Gross-Pitaevskii 方程}{404}
+\indexentry{Gross-Pitaevskii 方程}{404}
+\indexentry{Gross-Pitaevskii 方程}{405}
+\indexentry{Gross-Pitaevskii 方程}{405}
+\indexentry{Gross-Pitaevskii 方程}{405}
+\indexentry{量子化场|)}{405}
+\indexentry{相变|(}{407}
+\indexentry{平衡!平衡常数}{407}
+\indexentry{反铁磁性}{407}
+\indexentry{铁磁性}{407}
+\indexentry{二元溶液的相分离}{407}
+\indexentry{配分函数!二相系统的配分函数|(}{408}
+\indexentry{巨配分函数!多相系统的巨配分函数|(}{409}
+\indexentry{等温线!多相系统的等温线|(}{409}
+\indexentry{热力学极限}{409}
+\indexentry{强度量}{409}
+\indexentry{热力学压强}{409}
+\indexentry{范德瓦尔斯物态方程}{410}
+\indexentry{麦克斯韦构造法}{410}
+\indexentry{麦克斯韦构造法}{411}
+\indexentry{配分函数!二相系统的配分函数|)}{411}
+\indexentry{杨\bzx 李凝聚理论}{413}
+\indexentry{巨配分函数的零值点}{413}
+\indexentry{巨配分函数!多相系统的巨配分函数|)}{413}
+\indexentry{等温线!多相系统的等温线|)}{413}
+\indexentry{凝聚!范德瓦尔斯气体的凝聚|(}{413}
+\indexentry{凝聚}{413}
+\indexentry{等温线!范德瓦尔斯系统的等温线}{414}
+\indexentry{麦克斯韦构造法}{414}
+\indexentry{临界行为!范德瓦尔斯气体的临界行为|(}{414}
+\indexentry{物态方程!约化物态方程}{415}
+\indexentry{范德瓦尔斯物态方程}{415}
+\indexentry{对应态定律}{415}
+\indexentry{压缩率!等温压缩率}{416}
+\indexentry{凝聚!范德瓦尔斯气体的凝聚|)}{417}
+\indexentry{临界行为!范德瓦尔斯气体的临界行为|)}{417}
+\indexentry{相变!相变的动力学模型|(}{417}
+\indexentry{反铁磁性}{417}
+\indexentry{二元溶液的相分离}{417}
+\indexentry{常程序@长程序}{417}
+\indexentry{铁磁性}{417}
+\indexentry{自发磁化强度}{417}
+\indexentry{铁磁性}{418}
+\indexentry{自发磁化强度}{418}
+\indexentry{外斯铁磁理论}{418}
+\indexentry{铁磁性}{419}
+\indexentry{反铁磁性}{419}
+\indexentry{交换相互作用}{419}
+\indexentry{海森伯模型}{419}
+\indexentry{伊辛模型}{420}
+\indexentry{XY模型@$XY$ 模型}{420}
+\indexentry{二元合金}{420}
+\indexentry{自发磁化强度}{421}
+\indexentry{配位数}{421}
+\indexentry{相变!相变的动力学模型|)}{422}
+\indexentry{晶格气|(}{422}
+\indexentry{二元合金}{422}
+\indexentry{伊辛模型}{422}
+\indexentry{逸度!晶格气的逸度|(}{423}
+\indexentry{配分函数!晶格气的配分函数}{423}
+\indexentry{巨配分函数!晶格气的巨配分函数}{423}
+\indexentry{逸度!晶格气的逸度|)}{424}
+\indexentry{二元合金}{424}
+\indexentry{伊辛模型|(}{424}
+\indexentry{晶格气|)}{425}
+\indexentry{二元合金}{425}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似|(}{425}
+\indexentry{外斯铁磁理论|(}{425}
+\indexentry{常程序@长程序}{426}
+\indexentry{平均场理论}{426}
+\indexentry{常程序@长程序!外斯铁磁体中的长程序|(}{427}
+\indexentry{内分子场}{427}
+\indexentry{平均场理论}{427}
+\indexentry{自发磁化强度}{428}
+\indexentry{居里温度}{428}
+\indexentry{对称性破缺}{428}
+\indexentry{自发磁化强度}{429}
+\indexentry{熵!伊辛铁磁体的熵}{430}
+\indexentry{微观态!伊辛铁磁体的微观态}{430}
+\indexentry{磁化率!伊辛模型的磁化率}{430}
+\indexentry{居里外斯定律@居里\bzx 外斯定律}{431}
+\indexentry{居里定律}{431}
+\indexentry{常程序@长程序!外斯铁磁体中的长程序|)}{431}
+\indexentry{居里外斯定律@居里\bzx 外斯定律}{431}
+\indexentry{范德瓦尔斯物态方程}{431}
+\indexentry{随机混合近似}{431}
+\indexentry{短程序}{432}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似|)}{432}
+\indexentry{外斯铁磁理论|)}{432}
+\indexentry{平均场理论|(}{432}
+\indexentry{伊辛晶格的贝特近似|(}{432}
+\indexentry{短程序}{432}
+\indexentry{海森伯模型}{432}
+\indexentry{伊辛晶格的准化学近似}{432}
+\indexentry{常程序@长程序!贝特近似下的长程序|(}{433}
+\indexentry{自发磁化强度!伊辛模型的自发磁化强度}{434}
+\indexentry{临界行为!伊辛模型的临界行为|(}{434}
+\indexentry{居里温度}{434}
+\indexentry{自发磁化强度}{435}
+\indexentry{自发磁化强度!伊辛模型的自发磁化强度}{435}
+\indexentry{平均场理论|)}{435}
+\indexentry{相变!相变和关联}{435}
+\indexentry{随机混合近似}{436}
+\indexentry{质量作用定律}{436}
+\indexentry{平衡!平衡常数}{436}
+\indexentry{伊辛晶格的准化学近似}{436}
+\indexentry{常程序@长程序!贝特近似下的长程序|)}{436}
+\indexentry{相变!相变和关联}{436}
+\indexentry{短程序}{436}
+\indexentry{随机混合近似}{436}
+\indexentry{比热!伊辛晶格的比热}{437}
+\indexentry{短程序}{437}
+\indexentry{比热!伊辛晶格的比热}{437}
+\indexentry{比热!伊辛晶格的比热}{438}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{438}
+\indexentry{临界行为!伊辛模型的临界行为|)}{438}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{439}
+\indexentry{伊辛模型|)}{439}
+\indexentry{伊辛晶格的贝特近似|)}{439}
+\indexentry{序参量}{440}
+\indexentry{压缩率!等温压缩率}{440}
+\indexentry{范德瓦尔斯物态方程}{441}
+\indexentry{序参量}{441}
+\indexentry{伊辛晶格的贝特近似}{441}
+\indexentry{临界指数!临界指数的实验值}{442}
+\indexentry{临界指数!临界指数的热力学不等式|(}{443}
+\indexentry{临界行为!磁性系统的临界行为}{447}
+\indexentry{临界指数!临界指数的热力学不等式|)}{447}
+\indexentry{朗道相变理论|(}{447}
+\indexentry{相变!朗道相变理论|(}{447}
+\indexentry{相变!二级相变}{447}
+\indexentry{压缩率!等温压缩率}{447}
+\indexentry{序参量}{447}
+\indexentry{自发磁化强度}{447}
+\indexentry{磁化率!伊辛模型的磁化率}{448}
+\indexentry{麦克斯韦构造法}{448}
+\indexentry{麦克斯韦构造法}{448}
+\indexentry{普适性}{450}
+\indexentry{序参量}{450}
+\indexentry{麦克斯韦构造法}{450}
+\indexentry{朗道相变理论|)}{450}
+\indexentry{相变!朗道相变理论|)}{450}
+\indexentry{标度假设|(}{451}
+\indexentry{范德瓦尔斯物态方程}{451}
+\indexentry{临界指数!标度关系|(}{452}
+\indexentry{比热奇异性}{452}
+\indexentry{临界行为!磁性系统的临界行为}{452}
+\indexentry{临界行为!磁性系统的临界行为}{453}
+\indexentry{普适性!普适类}{454}
+\indexentry{临界指数!标度关系|)}{454}
+\indexentry{标度假设|)}{454}
+\indexentry{相变!相变和关联|(}{454}
+\indexentry{相变!相变和涨落|(}{454}
+\indexentry{光在液体中的散射}{454}
+\indexentry{散射!电磁波在液体中的散射}{454}
+\indexentry{临界乳光}{455}
+\indexentry{普适性!普适类}{455}
+\indexentry{关联!自旋\bzx 自旋关联}{456}
+\indexentry{序参量}{456}
+\indexentry{压缩率!等温压缩率}{457}
+\indexentry{涨落\bzx 耗散定理}{457}
+\indexentry{关联函数!平均场近似下的关联函数|(}{458}
+\indexentry{平均场理论}{458}
+\indexentry{临界行为!磁性系统的临界行为|(}{458}
+\indexentry{关联函数!平均场近似下的关联函数|)}{460}
+\indexentry{关联长度!平均场近似下的关联长度}{460}
+\indexentry{散射!电磁波在液体中的散射}{460}
+\indexentry{临界行为!磁性系统的临界行为|)}{461}
+\indexentry{相变!相变和关联|)}{461}
+\indexentry{相变!相变和涨落|)}{461}
+\indexentry{临界指数!标度关系|(}{461}
+\indexentry{平均场理论}{461}
+\indexentry{临界指数!临界指数的平均场值}{461}
+\indexentry{标度假设}{461}
+\indexentry{伊辛模型!二维伊辛模型}{461}
+\indexentry{标量模型}{461}
+\indexentry{矢量模型}{461}
+\indexentry{标度关系|(}{462}
+\indexentry{关联函数!写成标度形式的关联函数}{462}
+\indexentry{普适性!普适类}{462}
+\indexentry{临界指数!超标度关系}{463}
+\indexentry{超标度关系}{463}
+\indexentry{标度关系|)}{463}
+\indexentry{临界指数!标度关系|)}{464}
+\indexentry{平均场理论!平均场理论的局限|(}{464}
+\indexentry{相变!相变和涨落|(}{464}
+\indexentry{金兹堡判据}{465}
+\indexentry{标度关系}{465}
+\indexentry{标量模型}{465}
+\indexentry{超标度关系}{465}
+\indexentry{临界维度!上临界维度}{466}
+\indexentry{比热奇异性}{466}
+\indexentry{关联!自旋\bzx 自旋关联}{466}
+\indexentry{比热奇异性}{467}
+\indexentry{普适性!普适类}{467}
+\indexentry{平均场理论!平均场理论的局限|)}{467}
+\indexentry{相变!相变和涨落|)}{467}
+\indexentry{Dieterici 物态方程}{468}
+\indexentry{临界行为!范德瓦尔斯气体的临界行为}{468}
+\indexentry{范德瓦尔斯物态方程}{468}
+\indexentry{随机混合近似}{468}
+\indexentry{物态方程!晶格气的物态方程}{469}
+\indexentry{晶格气}{469}
+\indexentry{微观态!伊辛铁磁体的微观态}{469}
+\indexentry{伊辛模型}{469}
+\indexentry{海森伯模型}{469}
+\indexentry{铁磁性}{469}
+\indexentry{海森伯模型}{469}
+\indexentry{常程序@长程序!海森伯模型中的长程序}{469}
+\indexentry{布洛赫 $T^{3/2}$ 律}{469}
+\indexentry{Neel@N\'{e}el 温度}{470}
+\indexentry{微观态!二元合金的微观态}{470}
+\indexentry{常程序@长程序!二元合金中的长程序}{470}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{470}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{470}
+\indexentry{Kirkwood 近似}{471}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{471}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{471}
+\indexentry{短程序}{471}
+\indexentry{比热奇异性}{471}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{471}
+\indexentry{熵!伊辛铁磁体的熵}{471}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{471}
+\indexentry{磁化率!伊辛模型的磁化率}{472}
+\indexentry{伊辛晶格的贝特近似}{472}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{472}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{472}
+\indexentry{临界行为!磁性系统的临界行为}{472}
+\indexentry{相变!朗道相变理论}{472}
+\indexentry{三相临界点}{473}
+\indexentry{临界行为!流体的临界行为}{473}
+\indexentry{压缩率!等温压缩率}{473}
+\indexentry{压缩率!绝热压缩率}{473}
+\indexentry{潜热!汽化潜热}{473}
+\indexentry{标度假设}{473}
+\indexentry{标度关系}{473}
+\indexentry{超流!液 $\prescript{4}{}{\text{He}}$ 中的超流相变}{474}
+\indexentry{序参量}{474}
+\indexentry{超流!临界点附近的超流密度}{474}
+\indexentry{临界点附近的表面张力}{474}
+\indexentry{螺旋性!螺旋模量}{474}
+\indexentry{相变|)}{475}
+\indexentry{普适性!普适类}{477}
+\indexentry{序参量}{477}
+\indexentry{伊辛模型!一维伊辛模型}{477}
+\indexentry{一维流体|(}{477}
+\indexentry{等压系综}{478}
+\indexentry{硬球流体|(}{478}
+\indexentry{Tonks 气体}{478}
+\indexentry{对关联函数}{478}
+\indexentry{热力学极限}{478}
+\indexentry{压缩率!等温压缩率}{478}
+\indexentry{对关联函数}{478}
+\indexentry{热力学极限}{479}
+\indexentry{对关联函数}{479}
+\indexentry{硬球流体|)}{479}
+\indexentry{等压系综|(}{479}
+\indexentry{高桥氏方法|(}{479}
+\indexentry{对关联函数}{480}
+\indexentry{蒙特卡罗模拟}{480}
+\indexentry{压缩率!等温压缩率}{480}
+\indexentry{热力学极限}{481}
+\indexentry{结构因子}{481}
+\indexentry{硬球流体}{481}
+\indexentry{等压系综|)}{481}
+\indexentry{一维流体|)}{481}
+\indexentry{高桥氏方法|)}{481}
+\indexentry{伊辛模型!一维伊辛模型|(}{482}
+\indexentry{伊辛晶格的贝特近似}{482}
+\indexentry{传递矩阵!传递矩阵法}{482}
+\indexentry{配分函数!伊辛模型的配分函数}{483}
+\indexentry{热力学极限}{483}
+\indexentry{磁化率!伊辛模型的磁化率}{484}
+\indexentry{比热!伊辛晶格的比热}{484}
+\indexentry{伊辛晶格的贝特近似}{485}
+\indexentry{临界行为!伊辛模型的临界行为|(}{485}
+\indexentry{临界指数!伊辛模型的临界指数}{485}
+\indexentry{比热!伊辛晶格的比热}{485}
+\indexentry{关联!自旋\bzx 自旋关联}{486}
+\indexentry{关联函数!伊辛模型的关联函数}{487}
+\indexentry{关联长度!伊辛模型的关联长度}{487}
+\indexentry{临界指数!伊辛模型的临界指数}{487}
+\indexentry{超标度关系}{487}
+\indexentry{传递矩阵!传递矩阵法}{488}
+\indexentry{临界行为!伊辛模型的临界行为|)}{488}
+\indexentry{伊辛模型!一维伊辛模型|)}{488}
+\indexentry{矢量模型|(}{488}
+\indexentry{标量模型}{488}
+\indexentry{配分函数!$n$ 矢模型的配分函数}{488}
+\indexentry{配分函数!$n$ 矢模型的配分函数}{489}
+\indexentry{关联函数!$n$ 矢模型的关联函数|(}{489}
+\indexentry{比热!$n$ 矢模型的比热}{491}
+\indexentry{临界指数!$n$ 矢模型的临界指数}{491}
+\indexentry{球状模型}{491}
+\indexentry{热力学极限}{492}
+\indexentry{关联长度!$n$ 矢模型的关联长度}{492}
+\indexentry{临界指数!$n$ 矢模型的临界指数}{492}
+\indexentry{热力学极限}{492}
+\indexentry{关联函数!$n$ 矢模型的关联函数|)}{492}
+\indexentry{标量模型}{492}
+\indexentry{比热!$n$ 矢模型的比热}{492}
+\indexentry{热力学第三定律}{492}
+\indexentry{戈德斯通模}{492}
+\indexentry{矢量模型|)}{492}
+\indexentry{能量均分定理}{493}
+\indexentry{伊辛模型!二维伊辛模型|(}{493}
+\indexentry{铁磁性}{493}
+\indexentry{海森伯模型}{493}
+\indexentry{比热奇异性}{493}
+\indexentry{传递矩阵!传递矩阵法}{493}
+\indexentry{配分函数!伊辛模型的配分函数|(}{494}
+\indexentry{配位数}{494}
+\indexentry{对偶变换|(}{497}
+\indexentry{对偶变换|)}{499}
+\indexentry{凝聚!杨\bzx 李凝聚理论}{499}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{499}
+\indexentry{伊辛晶格的贝特近似}{499}
+\indexentry{比热!伊辛晶格的比热|(}{500}
+\indexentry{比热奇异性}{500}
+\indexentry{配分函数!伊辛模型的配分函数|)}{500}
+\indexentry{比热奇异性}{502}
+\indexentry{比热奇异性}{502}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{502}
+\indexentry{平均场理论}{502}
+\indexentry{伊辛晶格的贝特近似}{502}
+\indexentry{潜热}{502}
+\indexentry{比热!伊辛晶格的比热|)}{502}
+\indexentry{伊辛晶格的贝特近似}{503}
+\indexentry{伊辛晶格的贝特近似}{503}
+\indexentry{临界行为!伊辛模型的临界行为|(}{503}
+\indexentry{常程序@长程序!四方晶格中的长程序}{503}
+\indexentry{序参量}{503}
+\indexentry{自发磁化强度!伊辛模型的自发磁化强度}{503}
+\indexentry{布拉格威廉姆斯近似@布拉格\bzx 威廉姆斯近似}{504}
+\indexentry{伊辛晶格的贝特近似}{504}
+\indexentry{自发磁化强度}{504}
+\indexentry{伊辛晶格的贝特近似}{504}
+\indexentry{关联函数!伊辛模型的关联函数}{504}
+\indexentry{关联长度!伊辛模型的关联长度}{504}
+\indexentry{常程序@长程序!四方晶格中的长程序}{504}
+\indexentry{标量模型}{504}
+\indexentry{矢量模型}{504}
+\indexentry{临界指数!伊辛模型的临界指数}{505}
+\indexentry{标度关系}{505}
+\indexentry{平均场理论}{505}
+\indexentry{临界点附近的表面张力}{505}
+\indexentry{标度关系}{505}
+\indexentry{普适性}{505}
+\indexentry{临界行为!伊辛模型的临界行为|)}{505}
+\indexentry{相变}{505}
+\indexentry{热力学极限}{505}
+\indexentry{有限尺度效应}{505}
+\indexentry{玻尔兹曼因子}{506}
+\indexentry{伊辛模型!一维伊辛模型}{506}
+\indexentry{传递矩阵}{506}
+\indexentry{低温级数}{507}
+\indexentry{玻尔兹曼因子}{507}
+\indexentry{高温级数}{509}
+\indexentry{能量分布}{509}
+\indexentry{低温级数|(}{509}
+\indexentry{能量分布}{511}
+\indexentry{微正则熵}{511}
+\indexentry{蒙特卡罗模拟}{511}
+\indexentry{宽直方图法}{511}
+\indexentry{低温级数|)}{511}
+\indexentry{伊辛模型!二维伊辛模型|)}{511}
+\indexentry{微正则熵}{512}
+\indexentry{热力学极限}{512}
+\indexentry{能量分布}{512}
+\indexentry{配分函数!球状模型的配分函数|(}{513}
+\indexentry{球状模型|(}{513}
+\indexentry{高斯模型}{513}
+\indexentry{平均场理论}{513}
+\indexentry{球状约束}{513}
+\indexentry{鞍点法}{514}
+\indexentry{最速下降法}{514}
+\indexentry{球状约束}{514}
+\indexentry{球状场}{515}
+\indexentry{球状约束}{516}
+\indexentry{自发磁化强度!球状模型的自发磁化强度|(}{516}
+\indexentry{磁化率!球状模型的磁化率|(}{516}
+\indexentry{比热!球状模型的比热|(}{516}
+\indexentry{球状约束}{516}
+\indexentry{临界指数!球状模型的临界指数}{517}
+\indexentry{球状场!约化场}{517}
+\indexentry{沃森函数}{518}
+\indexentry{临界行为!球状模型的临界行为|(}{518}
+\indexentry{比热!球状模型的比热|)}{519}
+\indexentry{临界指数!球状模型的临界指数|(}{519}
+\indexentry{临界行为!球状模型的临界行为|)}{520}
+\indexentry{关联函数!球状模型的关联函数|(}{520}
+\indexentry{关联!自旋\bzx 自旋关联|(}{520}
+\indexentry{关联长度!球状模型的关联长度}{521}
+\indexentry{常程序@长程序!球状模型中的长程序}{522}
+\indexentry{自发磁化强度!球状模型的自发磁化强度|)}{523}
+\indexentry{磁化率!球状模型的磁化率|)}{523}
+\indexentry{关联函数!球状模型的关联函数|)}{523}
+\indexentry{关联!自旋\bzx 自旋关联|)}{523}
+\indexentry{矢量模型}{523}
+\indexentry{相变!相变和涨落}{523}
+\indexentry{临界指数!球状模型的临界指数|)}{523}
+\indexentry{常程相互作用@长程相互作用}{524}
+\indexentry{配分函数!球状模型的配分函数|)}{524}
+\indexentry{球状模型|)}{524}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|(}{524}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统!任意维度的玻色\bzx 爱因斯坦系统|(}{524}
+\indexentry{临界行为!玻色气体的临界行为|(}{524}
+\indexentry{临界指数!玻色气体的临界指数|(}{524}
+\indexentry{理想气体!理想玻色气体|(}{524}
+\indexentry{普适性!普适类}{524}
+\indexentry{矢量模型}{524}
+\indexentry{逸度}{524}
+\indexentry{平均热波长}{525}
+\indexentry{比热!玻色气体的比热}{525}
+\indexentry{压缩率!绝热压缩率}{525}
+\indexentry{压缩率!等温压缩率}{525}
+\indexentry{逸度}{525}
+\indexentry{比热!玻色气体的比热}{526}
+\indexentry{压缩率!等温压缩率}{526}
+\indexentry{逸度}{527}
+\indexentry{序参量}{528}
+\indexentry{临界行为!玻色气体的临界行为|)}{528}
+\indexentry{关联函数!玻色气体的关联函数|(}{528}
+\indexentry{对关联函数|(}{528}
+\indexentry{关联长度!玻色气体的关联长度}{529}
+\indexentry{常程序@长程序!玻色气体中的长程序}{529}
+\indexentry{关联函数!玻色气体的关联函数|)}{529}
+\indexentry{相对论性气体!相对论性玻色气体}{530}
+\indexentry{普适性!普适类}{530}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统|)}{530}
+\indexentry{玻色爱因斯坦系统@玻色\bzx 爱因斯坦系统!任意维度的玻色\bzx 爱因斯坦系统|)}{530}
+\indexentry{临界指数!玻色气体的临界指数|)}{530}
+\indexentry{理想气体!理想玻色气体|)}{530}
+\indexentry{对关联函数|)}{530}
+\indexentry{XY模型@$XY$ 模型|(}{530}
+\indexentry{关联函数!$XY$ 模型的关联函数|(}{530}
+\indexentry{关联长度!$XY$ 模型的关联长度|(}{530}
+\indexentry{临界行为!$XY$ 模型的临界行为|(}{530}
+\indexentry{序参量}{530}
+\indexentry{Bogoliubov 变换}{530}
+\indexentry{Mermin-Wagner 定理}{530}
+\indexentry{Kosterlitz-Thouless 相变}{530}
+\indexentry{比热!$XY$ 模型的比热}{531}
+\indexentry{Kosterlitz-Thouless 相变}{531}
+\indexentry{XY模型@$XY$ 模型|)}{531}
+\indexentry{关联函数!$XY$ 模型的关联函数|)}{531}
+\indexentry{关联长度!$XY$ 模型的关联长度|)}{531}
+\indexentry{临界行为!$XY$ 模型的临界行为|)}{531}
+\indexentry{伊辛模型!三维伊辛模型}{531}
+\indexentry{比值法}{532}
+\indexentry{帕德近似}{532}
+\indexentry{海森伯模型}{532}
+\indexentry{矢量模型}{532}
+\indexentry{虫正化群方法@重正化群方法}{532}
+\indexentry{常度变换@长度变换}{532}
+\indexentry{不动点}{532}
+\indexentry{临界维度!上临界维度}{532}
+\indexentry{蒙特卡罗模拟}{533}
+\indexentry{虫正化群方法@重正化群方法}{533}
+\indexentry{伊辛模型!三维伊辛模型}{533}
+\indexentry{超标度关系}{533}
+\indexentry{标度关系}{533}
+\indexentry{临界指数!聚合物的临界指数}{533}
+\indexentry{临界指数!临界指数的平均场值}{533}
+\indexentry{序参量}{533}
+\indexentry{临界指数!$n$ 矢模型的临界指数}{534}
+\indexentry{临界指数!伊辛模型的临界指数}{534}
+\indexentry{临界指数!临界指数的理论值}{534}
+\indexentry{伊辛模型!三维伊辛模型}{534}
+\indexentry{伊辛晶格的准化学近似}{535}
+\indexentry{配分函数!伊辛模型的配分函数}{535}
+\indexentry{配分函数!伊辛模型的配分函数}{535}
+\indexentry{微观态!伊辛铁磁体的微观态}{535}
+\indexentry{关联长度!伊辛模型的关联长度}{535}
+\indexentry{配分函数!伊辛模型的配分函数}{536}
+\indexentry{传递矩阵!传递矩阵法}{536}
+\indexentry{晶格气}{537}
+\indexentry{逸度}{537}
+\indexentry{逸度!晶格气的逸度}{537}
+\indexentry{物态方程!晶格气的物态方程}{537}
+\indexentry{临界行为!伊辛模型的临界行为}{537}
+\indexentry{磁化率!伊辛模型的磁化率}{537}
+\indexentry{磁化率!$n$ 矢模型的磁化率}{537}
+\indexentry{关联函数!伊辛模型的关联函数}{537}
+\indexentry{临界行为!伊辛模型的临界行为}{538}
+\indexentry{配分函数!伊辛模型的配分函数}{538}
+\indexentry{伊辛模型!二维伊辛模型}{538}
+\indexentry{熵!伊辛铁磁体的熵}{538}
+\indexentry{伊辛模型!二维伊辛模型}{538}
+\indexentry{自发磁化强度!伊辛模型的自发磁化强度}{538}
+\indexentry{晶格气}{538}
+\indexentry{球状模型}{538}
+\indexentry{球状约束}{538}
+\indexentry{配分函数!$n$ 矢模型的配分函数}{539}
+\indexentry{球状模型}{539}
+\indexentry{磁化率!球状模型的磁化率}{539}
+\indexentry{自发磁化强度!球状模型的自发磁化强度}{539}
+\indexentry{热力学极限}{539}
+\indexentry{关联长度!球状模型的关联长度}{539}
+\indexentry{球状模型}{539}
+\indexentry{关联函数!球状模型的关联函数}{539}
+\indexentry{临界行为!球状模型的临界行为}{539}
+\indexentry{关联函数!玻色气体的关联函数}{539}
+\indexentry{球状模型}{539}
+\indexentry{临界行为!球状模型的临界行为}{539}
+\indexentry{关联长度!玻色气体的关联长度}{539}
+\indexentry{球状模型}{540}
+\indexentry{临界指数!球状模型的临界指数}{540}
+\indexentry{临界行为!玻色气体的临界行为}{540}
+\indexentry{理想气体!理想玻色气体}{541}
+\indexentry{热力学极限}{541}
+\indexentry{相对论性气体!相对论性玻色气体}{541}
+\indexentry{临界行为!玻色气体的临界行为}{541}
+\indexentry{能量均分定理}{541}
+\indexentry{压缩率!等温压缩率}{541}
+\indexentry{微正则熵}{542}
+\indexentry{伊辛模型!二维伊辛模型}{542}
+\indexentry{伊辛模型!二维伊辛模型}{542}
+\indexentry{虫正化群方法@重正化群方法|(}{543}
+\indexentry{常度变换@长度变换}{543}
+\indexentry{相变!相变和关联}{543}
+\indexentry{标度理论|(}{544}
+\indexentry{元块\bzx 自旋变换}{544}
+\indexentry{消约变换}{544}
+\indexentry{标量模型}{544}
+\indexentry{消约变换}{545}
+\indexentry{临界指数!伊辛模型的临界指数}{547}
+\indexentry{超标度关系}{547}
+\indexentry{标度关系}{547}
+\indexentry{标度理论|)}{547}
+\indexentry{伊辛模型!一维伊辛模型|(}{548}
+\indexentry{配分函数!伊辛模型的配分函数|(}{548}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|(}{548}
+\indexentry{伊辛模型!一维伊辛模型|)}{551}
+\indexentry{配分函数!伊辛模型的配分函数|)}{551}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|)}{551}
+\indexentry{球状模型|(}{551}
+\indexentry{配分函数!球状模型的配分函数|(}{551}
+\indexentry{虫正化群方法@重正化群方法!球状模型的重正化群方法|(}{551}
+\indexentry{临界指数!球状模型的临界指数}{552}
+\indexentry{球状约束}{553}
+\indexentry{球状模型|)}{553}
+\indexentry{配分函数!球状模型的配分函数|)}{553}
+\indexentry{虫正化群方法@重正化群方法!球状模型的重正化群方法|)}{553}
+\indexentry{配分函数!伊辛模型的配分函数|(}{553}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|(}{553}
+\indexentry{配分函数!伊辛模型的配分函数|)}{556}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|)}{556}
+\indexentry{虫正化群方法@重正化群方法!重正化群的一般性表述|(}{556}
+\indexentry{消约变换}{556}
+\indexentry{虫正化群算符@重正化群算符}{557}
+\indexentry{不动点|(}{557}
+\indexentry{临界面}{557}
+\indexentry{临界轨迹}{558}
+\indexentry{相关变量}{558}
+\indexentry{无关变量}{558}
+\indexentry{虫正化群算符@重正化群算符!线性重正化群算符}{559}
+\indexentry{标度理论|(}{559}
+\indexentry{标度场}{559}
+\indexentry{相关变量}{559}
+\indexentry{无关变量|(}{559}
+\indexentry{临界面}{559}
+\indexentry{边际量}{560}
+\indexentry{临界面}{560}
+\indexentry{虫正化群算符@重正化群算符}{561}
+\indexentry{不动点|)}{561}
+\indexentry{超标度关系}{561}
+\indexentry{标度关系}{561}
+\indexentry{临界指数!临界指数的平均场值}{561}
+\indexentry{标度关系}{561}
+\indexentry{标度理论|)}{562}
+\indexentry{无关变量|)}{562}
+\indexentry{临界指数!临界指数的平均场值}{563}
+\indexentry{超标度关系}{563}
+\indexentry{虫正化群方法@重正化群方法!重正化群的一般性表述|)}{563}
+\indexentry{临界行为!伊辛模型的临界行为|(}{563}
+\indexentry{不动点|(}{563}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|(}{563}
+\indexentry{临界行为!伊辛模型的临界行为|)}{564}
+\indexentry{虫正化群方法@重正化群方法!伊辛模型的重正化群方法|)}{564}
+\indexentry{虫正化群方法@重正化群方法!球状模型的重正化群方法|(}{564}
+\indexentry{球状场}{564}
+\indexentry{虫正化群方法@重正化群方法!球状模型的重正化群方法|)}{564}
+\indexentry{临界行为!伊辛模型的临界行为|(}{565}
+\indexentry{标度场}{566}
+\indexentry{临界曲线}{566}
+\indexentry{临界曲线}{566}
+\indexentry{临界面}{566}
+\indexentry{普适性}{567}
+\indexentry{临界曲线}{567}
+\indexentry{临界行为!伊辛模型的临界行为|)}{568}
+\indexentry{epsilon@$\varepsilon$ 展开|(}{568}
+\indexentry{配位数}{568}
+\indexentry{不动点!高斯不动点}{568}
+\indexentry{不动点!非高斯不动点}{569}
+\indexentry{不动点!高斯不动点}{569}
+\indexentry{无关变量}{569}
+\indexentry{无关变量!危险无关变量}{569}
+\indexentry{不动点!非高斯不动点}{569}
+\indexentry{临界曲线}{570}
+\indexentry{不动点|)}{570}
+\indexentry{无关变量}{570}
+\indexentry{epsilon@$\varepsilon$ 展开|)}{571}
+\indexentry{不动点}{572}
+\indexentry{不动点}{573}
+\indexentry{跨接现象}{573}
+\indexentry{常程相互作用@长程相互作用}{573}
+\indexentry{普适性!普适类}{573}
+\indexentry{相变!界面相变}{573}
+\indexentry{共形变换}{573}
+\indexentry{虫正化群方法@重正化群方法|)}{573}
+\indexentry{有限尺度标度律|(}{573}
+\indexentry{相变!有限尺度系统中的相变|(}{573}
+\indexentry{热力学极限}{573}
+\indexentry{临界维度!上临界维度}{574}
+\indexentry{临界维度!下临界维度}{574}
+\indexentry{临界指数!超标度关系}{574}
+\indexentry{超标度关系}{574}
+\indexentry{普适性!普适类}{575}
+\indexentry{序参量}{580}
+\indexentry{关联函数!写成标度形式的关联函数}{580}
+\indexentry{相变!二级相变}{582}
+\indexentry{临界维度!下临界维度}{582}
+\indexentry{标量模型}{582}
+\indexentry{临界维度!上临界维度}{582}
+\indexentry{有限尺度效应}{582}
+\indexentry{有限尺度标度律|)}{583}
+\indexentry{相变!有限尺度系统中的相变|)}{583}
+\indexentry{消约变换}{583}
+\indexentry{传递矩阵!传递矩阵法}{583}
+\indexentry{球状模型}{583}
+\indexentry{球状约束}{583}
+\indexentry{球状模型}{583}
+\indexentry{配分函数!球状模型的配分函数}{583}
+\indexentry{Migdal-Kadanoff 变换}{584}
+\indexentry{消约变换}{584}
+\indexentry{虫正化群算符@重正化群算符!线性重正化群算符}{585}
+\indexentry{球状模型}{585}
+\indexentry{标度关系}{585}
+\indexentry{关联!空间关联}{587}
+\indexentry{临界乳光}{587}
+\indexentry{相变!相变和关联}{587}
+\indexentry{布朗运动}{587}
+\indexentry{爱因斯坦关系}{587}
+\indexentry{迁移率}{587}
+\indexentry{平衡!趋向平衡}{587}
+\indexentry{平衡!维持平衡}{587}
+\indexentry{噪声!$(L,R)$ 电路中的噪声}{587}
+\indexentry{耗散现象}{587}
+\indexentry{维纳\bzx 欣钦定理}{587}
+\indexentry{贾津斯基等式}{588}
+\indexentry{熵!非平衡态的熵|(}{588}
+\indexentry{平衡!偏离平衡|(}{588}
+\indexentry{涨落!热力学涨落|(}{588}
+\indexentry{概率分布!热力学涨落的概率分布|(}{588}
+\indexentry{关联!统计关联}{589}
+\indexentry{压缩率!等温压缩率}{590}
+\indexentry{压缩率!绝热压缩率}{590}
+\indexentry{熵!非平衡态的熵|)}{590}
+\indexentry{密度涨落}{591}
+\indexentry{密度涨落!临界区域的密度涨落}{591}
+\indexentry{平衡!偏离平衡|)}{591}
+\indexentry{涨落!热力学涨落|)}{591}
+\indexentry{概率分布!热力学涨落的概率分布|)}{591}
+\indexentry{布朗运动|(}{592}
+\indexentry{布朗运动的爱因斯坦\bzx 斯莫卢霍夫斯基理论|(}{592}
+\indexentry{布朗运动!布朗运动的观测}{592}
+\indexentry{随机行走问题}{592}
+\indexentry{概率分布!布朗粒子的概率分布}{592}
+\indexentry{斯莫卢霍夫斯基方程}{593}
+\indexentry{涨落!密度涨落|(}{593}
+\indexentry{涨落!能量涨落|(}{593}
+\indexentry{不可逆现象}{593}
+\indexentry{斯特林公式}{594}
+\indexentry{扩散!扩散系数}{594}
+\indexentry{扩散!用扩散描述的布朗运动}{594}
+\indexentry{布朗运动!布朗运动的观测}{595}
+\indexentry{扩散!用扩散描述的布朗运动}{595}
+\indexentry{黏度}{595}
+\indexentry{菲克扩散定律}{596}
+\indexentry{扩散!用扩散描述的布朗运动}{596}
+\indexentry{扩散!扩散系数}{596}
+\indexentry{扩散!扩散方程}{596}
+\indexentry{涨落!密度涨落|)}{596}
+\indexentry{涨落!能量涨落|)}{596}
+\indexentry{随机行走问题}{596}
+\indexentry{布朗运动!布朗运动的系综}{596}
+\indexentry{概率分布!布朗粒子的概率分布}{596}
+\indexentry{布朗运动!布朗运动的系综}{597}
+\indexentry{布朗运动的爱因斯坦\bzx 斯莫卢霍夫斯基理论|)}{597}
+\indexentry{布朗运动的朗之万理论|(}{597}
+\indexentry{迁移率}{597}
+\indexentry{黏性阻力}{597}
+\indexentry{斯托克斯定律}{597}
+\indexentry{黏度}{597}
+\indexentry{弛豫时间}{598}
+\indexentry{黏度}{598}
+\indexentry{耗散现象}{598}
+\indexentry{扩散!扩散系数}{598}
+\indexentry{迁移率}{598}
+\indexentry{关联!统计关联}{598}
+\indexentry{黏度}{599}
+\indexentry{能斯特关系}{599}
+\indexentry{关联!统计关联}{600}
+\indexentry{自关联函数}{600}
+\indexentry{定态系综}{600}
+\indexentry{弛豫时间}{602}
+\indexentry{布朗运动!布朗运动的观测}{604}
+\indexentry{布朗运动!旋转布朗运动}{604}
+\indexentry{布朗运动!谐振子的布朗运动|(}{604}
+\indexentry{谐振子|(}{604}
+\indexentry{响应函数|(}{604}
+\indexentry{黏度}{604}
+\indexentry{色散}{605}
+\indexentry{耗散}{605}
+\indexentry{能量均分定理}{605}
+\indexentry{功率谱}{606}
+\indexentry{功率谱!静态变量的功率谱}{606}
+\indexentry{耗散}{606}
+\indexentry{涨落\bzx 耗散定理}{606}
+\indexentry{布朗运动!谐振子的布朗运动|)}{606}
+\indexentry{布朗运动的朗之万理论|)}{606}
+\indexentry{谐振子|)}{606}
+\indexentry{响应函数|)}{606}
+\indexentry{平衡!趋向平衡|(}{606}
+\indexentry{福克尔\bzx 普朗克方程|(}{606}
+\indexentry{布朗运动!布朗运动的系综}{606}
+\indexentry{主方程}{606}
+\indexentry{主方程}{607}
+\indexentry{输运现象}{607}
+\indexentry{弛豫时间}{607}
+\indexentry{概率分布!布朗粒子的概率分布}{607}
+\indexentry{马尔可夫过程}{607}
+\indexentry{泡利不相容原理}{607}
+\indexentry{布朗运动|)}{608}
+\indexentry{弛豫时间}{608}
+\indexentry{布朗运动!布朗运动的系综}{608}
+\indexentry{扩散!扩散方程}{608}
+\indexentry{能量均分定理}{609}
+\indexentry{布朗运动!布朗运动的系综}{609}
+\indexentry{概率分布!布朗粒子的概率分布}{609}
+\indexentry{弛豫时间}{609}
+\indexentry{布朗运动}{609}
+\indexentry{布朗运动!悬镜的布朗运动}{609}
+\indexentry{布朗运动}{610}
+\indexentry{布朗运动!悬镜的布朗运动}{610}
+\indexentry{布朗运动!悬镜的布朗运动}{611}
+\indexentry{平衡!趋向平衡|)}{611}
+\indexentry{福克尔\bzx 普朗克方程|)}{611}
+\indexentry{涨落!涨落的频谱|(}{611}
+\indexentry{涨落!涨落的傅里叶分析|(}{611}
+\indexentry{涨落!涨落的谱分析|(}{611}
+\indexentry{定态变量的傅里叶分析|(}{611}
+\indexentry{维纳\bzx 欣钦定理|(}{611}
+\indexentry{变量的可预测性}{611}
+\indexentry{弛豫时间}{611}
+\indexentry{无规相位}{613}
+\indexentry{功率谱!静态变量的功率谱}{613}
+\indexentry{自关联函数}{613}
+\indexentry{自关联函数}{614}
+\indexentry{功率谱!静态变量的功率谱|(}{614}
+\indexentry{变量的可预测性}{614}
+\indexentry{自关联函数}{615}
+\indexentry{变量的可预测性}{615}
+\indexentry{自关联函数}{616}
+\indexentry{自关联函数}{616}
+\indexentry{自关联函数}{617}
+\indexentry{能量均分定理}{617}
+\indexentry{噪声!白噪声}{617}
+\indexentry{功率谱!静态变量的功率谱|)}{617}
+\indexentry{黏度}{618}
+\indexentry{弛豫时间}{618}
+\indexentry{响应时间}{618}
+\indexentry{响应时间}{618}
+\indexentry{涨落!$(L,R)$ 电路中的涨落}{618}
+\indexentry{能量均分定理}{618}
+\indexentry{噪声!白噪声}{618}
+\indexentry{噪声!白噪声}{618}
+\indexentry{尼奎斯特定理}{619}
+\indexentry{涨落!涨落的傅里叶分析|)}{619}
+\indexentry{涨落!涨落的谱分析|)}{619}
+\indexentry{定态变量的傅里叶分析|)}{619}
+\indexentry{维纳\bzx 欣钦定理|)}{619}
+\indexentry{涨落!涨落的频谱|)}{619}
+\indexentry{耗散现象}{619}
+\indexentry{涨落\bzx 耗散定理|(}{619}
+\indexentry{非平衡性质}{619}
+\indexentry{自关联函数}{619}
+\indexentry{黏度}{619}
+\indexentry{扩散!扩散系数}{620}
+\indexentry{迁移率}{620}
+\indexentry{自关联函数}{620}
+\indexentry{定态系综}{620}
+\indexentry{弛豫时间}{620}
+\indexentry{布朗运动}{620}
+\indexentry{耗散现象}{621}
+\indexentry{涨落!电阻中的涨落}{621}
+\indexentry{布朗运动的朗之万理论!应用于电阻器}{621}
+\indexentry{久保定理}{622}
+\indexentry{传导率!电导率}{622}
+\indexentry{噪声!白噪声}{622}
+\indexentry{线性响应理论|(}{622}
+\indexentry{密度矩阵}{623}
+\indexentry{响应函数}{624}
+\indexentry{Kramers-Kronig 关系式}{624}
+\indexentry{功率谱}{625}
+\indexentry{功率谱!静态变量的功率谱}{625}
+\indexentry{响应函数}{625}
+\indexentry{经典极限}{625}
+\indexentry{线性响应理论|)}{625}
+\indexentry{动力学结构因子|(}{625}
+\indexentry{非弹性散射|(}{625}
+\indexentry{功率谱!静态变量的功率谱}{626}
+\indexentry{斯托克斯散射}{626}
+\indexentry{反斯托克斯散射}{626}
+\indexentry{玻尔兹曼因子}{626}
+\indexentry{拉曼散射}{626}
+\indexentry{布里渊散射}{626}
+\indexentry{瑞利散射}{626}
+\indexentry{拉曼散射}{626}
+\indexentry{布里渊区}{627}
+\indexentry{布里渊散射}{627}
+\indexentry{四氯化碳}{627}
+\indexentry{Landau-Placzek 比}{627}
+\indexentry{涨落\bzx 耗散定理|)}{628}
+\indexentry{动力学结构因子|)}{628}
+\indexentry{非弹性散射|)}{628}
+\indexentry{昂萨格关系|(}{628}
+\indexentry{动力学系数}{628}
+\indexentry{传导率!电导率}{628}
+\indexentry{传导率!热导率}{628}
+\indexentry{扩散!扩散系数}{628}
+\indexentry{波函数的对称性}{628}
+\indexentry{熵!非平衡态的熵|(}{628}
+\indexentry{不可逆现象}{629}
+\indexentry{不可逆现象}{630}
+\indexentry{波函数的对称性}{631}
+\indexentry{熵!非平衡态的熵|)}{631}
+\indexentry{涨落\bzx 耗散定理}{631}
+\indexentry{昂萨格关系|)}{632}
+\indexentry{贾津斯基等式|(}{633}
+\indexentry{Crooks 涨落定理}{637}
+\indexentry{贾津斯基等式|)}{637}
+\indexentry{概率分布!热力学涨落的概率分布}{638}
+\indexentry{协方差矩阵}{638}
+\indexentry{平衡!偏离平衡}{638}
+\indexentry{黏度}{639}
+\indexentry{自关联函数}{639}
+\indexentry{自关联函数}{639}
+\indexentry{功率谱!静态变量的功率谱}{640}
+\indexentry{自关联函数}{640}
+\indexentry{功率谱!静态变量的功率谱}{641}
+\indexentry{弛豫时间}{641}
+\indexentry{响应函数}{641}
+\indexentry{反斯托克斯散射}{641}
+\indexentry{斯托克斯散射}{641}
+\indexentry{贾津斯基等式}{641}
+\indexentry{计算机模拟|(}{643}
+\indexentry{牛顿运动方程}{644}
+\indexentry{相空间}{644}
+\indexentry{微观态|(}{644}
+\indexentry{能量!等能超曲面}{644}
+\indexentry{重要采样法}{644}
+\indexentry{平衡!平衡平均}{644}
+\indexentry{关联!关联时间}{645}
+\indexentry{蒙特卡罗步骤}{646}
+\indexentry{蒙特卡罗模拟|(}{646}
+\indexentry{伪随机数|(}{646}
+\indexentry{平衡!概率分布}{646}
+\indexentry{概率分布}{646}
+\indexentry{重要采样法}{646}
+\indexentry{随机率方程}{646}
+\indexentry{细致平衡}{647}
+\indexentry{跃迁率}{647}
+\indexentry{微观态|)}{647}
+\indexentry{Metropolis 方法|(}{647}
+\indexentry{试探态}{647}
+\indexentry{试探态}{648}
+\indexentry{细致平衡}{648}
+\indexentry{蒙特卡罗步骤}{648}
+\indexentry{Swendsen and Wang 算法}{648}
+\indexentry{Wolff 算法}{648}
+\indexentry{蒙特卡罗模拟|)}{649}
+\indexentry{伪随机数|)}{649}
+\indexentry{Metropolis 方法|)}{649}
+\indexentry{分子动力学模拟|(}{649}
+\indexentry{牛顿运动方程}{649}
+\indexentry{多正则蒙特卡罗}{649}
+\indexentry{宽直方图法}{649}
+\indexentry{常程相互作用@长程相互作用}{650}
+\indexentry{微正则系综}{650}
+\indexentry{相空间}{650}
+\indexentry{微观态}{650}
+\indexentry{蛙跳算法}{650}
+\indexentry{Verlet 算法}{650}
+\indexentry{辛结构}{650}
+\indexentry{微观态}{650}
+\indexentry{能量!等能超曲面}{650}
+\indexentry{微正则系综}{650}
+\indexentry{相空间}{650}
+\indexentry{平衡!平衡平均}{651}
+\indexentry{热库}{651}
+\indexentry{伦纳德琼斯势@伦纳德\bzx 琼斯势}{651}
+\indexentry{范德瓦尔斯吸引}{651}
+\indexentry{泡利排斥}{651}
+\indexentry{谐振子}{651}
+\indexentry{遍历性}{651}
+\indexentry{麦克斯韦分布}{652}
+\indexentry{伪随机数}{652}
+\indexentry{分子动力学模拟|)}{652}
+\indexentry{粒子模拟|(}{652}
+\indexentry{微正则系综}{653}
+\indexentry{能量均分定理}{653}
+\indexentry{压缩率!等温压缩率}{653}
+\indexentry{对关联函数|(}{653}
+\indexentry{关联函数!流体的关联函数}{653}
+\indexentry{硬球流体|(}{653}
+\indexentry{巨正则系综}{653}
+\indexentry{等压系综}{653}
+\indexentry{朗之万随机力}{653}
+\indexentry{热库}{653}
+\indexentry{位力!位力物态方程}{654}
+\indexentry{对关联函数|)}{654}
+\indexentry{Carnahan-Starling 物态方程}{654}
+\indexentry{粒子模拟|)}{654}
+\indexentry{硬球流体|)}{654}
+\indexentry{对关联函数}{655}
+\indexentry{关联函数!流体的关联函数}{655}
+\indexentry{随机密堆}{656}
+\indexentry{相变!一级相变}{656}
+\indexentry{相变!二级相变}{656}
+\indexentry{蒙特卡罗模拟}{656}
+\indexentry{蒙特卡罗虫正化群@蒙特卡罗重正化群}{656}
+\indexentry{并行退火法}{656}
+\indexentry{遍历性}{657}
+\indexentry{能量!等能超曲面}{657}
+\indexentry{伪随机数}{657}
+\indexentry{计算机模拟|)}{657}
+\indexentry{Box-Muller 算法}{658}
+\indexentry{Weeks-Chandler-Andersen (WCA) 势}{658}
+\indexentry{边界条件|(}{661}
+\indexentry{态密度|(}{661}
+\indexentry{表面效应|(}{661}
+\indexentry{边缘效应}{662}
+\indexentry{边界条件|)}{663}
+\indexentry{态密度|)}{663}
+\indexentry{表面效应|)}{663}
+\indexentry{伽马函数}{664}
+\indexentry{阶乘函数}{664}
+\indexentry{伽马函数}{665}
+\indexentry{贝塔函数}{666}
+\indexentry{斯特林公式}{666}
+\indexentry{阶乘函数}{666}
+\indexentry{斯特林公式}{667}
+\indexentry{DAA函数@$\updelta$ 函数|(}{668}
+\indexentry{DAA函数@$\updelta$ 函数|)}{671}
+\indexentry{体积|(}{671}
+\indexentry{体积|)}{673}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦函数@玻色\bzx 爱因斯坦函数|(}{673}
+\indexentry{黎曼泽塔函数}{674}
+\indexentry{泽塔函数}{674}
+\indexentry{黎曼泽塔函数}{675}
+\indexentry{泽塔函数}{675}
+\indexentry{玻色爱因斯坦凝聚@玻色\bzx 爱因斯坦凝聚!玻色爱因斯坦函数@玻色\bzx 爱因斯坦函数|)}{676}
+\indexentry{费米狄拉克函数@费米\bzx 狄拉克函数|(}{676}
+\indexentry{索末菲引理}{679}
+\indexentry{费米狄拉克函数@费米\bzx 狄拉克函数|)}{679}
+\indexentry{温度}{682}
+\indexentry{温度}{683}
+\indexentry{温度}{683}
+\indexentry{温度}{684}
+\indexentry{沃森函数|(}{684}
+\indexentry{沃森函数|)}{685}
+\indexentry{四大著名公式}{686}
+\indexentry{熵|(}{686}
+\indexentry{微正则系综|(}{686}
+\indexentry{分子数}{686}
+\indexentry{麦克斯韦关系式|(}{686}
+\indexentry{熵|)}{687}
+\indexentry{微正则系综|)}{687}
+\indexentry{内能|(}{687}
+\indexentry{分子数}{687}
+\indexentry{内能|)}{687}
+\indexentry{正则系综}{687}
+\indexentry{亥姆霍兹自由能|(}{687}
+\indexentry{分子数}{687}
+\indexentry{温度}{687}
+\indexentry{正则配分函数}{688}
+\indexentry{亥姆霍兹自由能|)}{688}
+\indexentry{巨正则系综}{688}
+\indexentry{压强|(}{688}
+\indexentry{热力学势|(}{688}
+\indexentry{化学势}{688}
+\indexentry{温度}{688}
+\indexentry{熵!熵密度}{689}
+\indexentry{数密度}{689}
+\indexentry{巨正则配分函数}{689}
+\indexentry{热力学势|)}{689}
+\indexentry{吉布斯自由能|(}{689}
+\indexentry{分子数}{689}
+\indexentry{温度}{689}
+\indexentry{化学势}{690}
+\indexentry{比体积}{690}
+\indexentry{等压配分函数}{690}
+\indexentry{化学势}{690}
+\indexentry{吉布斯自由能|)}{690}
+\indexentry{焓|(}{690}
+\indexentry{分子数}{690}
+\indexentry{焓|)}{691}
+\indexentry{电亥姆霍兹自由能}{691}
+\indexentry{磁场}{691}
+\indexentry{磁亥姆霍兹自由能}{691}
+\indexentry{麦克斯韦关系式|)}{691}
+\indexentry{压强|)}{691}
+\indexentry{正则配分函数}{692}
+\indexentry{下凸性|(}{693}
+\indexentry{方差}{693}
+\indexentry{压缩率!等温压缩率}{693}
+\indexentry{能量!能量涨落}{693}
+\indexentry{涨落!密度涨落}{693}
+\indexentry{涨落!能量涨落}{693}
+\indexentry{下凸性|)}{693}
+\indexentry{伪随机数|(}{693}
+\indexentry{线性同余法}{693}
+\indexentry{Wolff 算法}{695}
+\indexentry{Box-Muller 算法}{696}
+\indexentry{伪随机数|)}{696}
+\indexentry{麦克斯韦玻尔兹曼统计@麦克斯韦\bzx 玻尔兹曼统计|seealso{经典极限; 经典系统}}{696}
+\indexentry{化学势|seealso{逸度}}{696}
+\indexentry{物态方程|seealso{范德瓦尔斯物态方程}}{696}
+\indexentry{等温过程|seealso{压缩率}}{696}
+\indexentry{能斯特热定理|see{热力学第三定律}}{696}
+\indexentry{配容|see{微观态}}{696}
+\indexentry{Bohr-van Leeuwen 定理|see{玻尔\bzx 范莱文定理}}{696}
+\indexentry{氦3@氦~3 ($\prescript{3}{}{\text{He}}$)|seealso{液~$\prescript{3}{}{\text{He}}$}}{696}
+\indexentry{氦4@氦~4 ($\prescript{4}{}{\text{He}}$)|seealso{液~$\prescript{4}{}{\text{He}}$}}{696}
+\indexentry{逸度|seealso{化学势}}{696}
+\indexentry{涨落|seealso{布朗运动; 相变}}{696}
+\indexentry{BEC|see{玻色\bzx 爱因斯坦凝聚}}{696}
+\indexentry{q 势@$q$ 势|seealso{巨配分函数}}{696}
+\indexentry{克拉默斯q势@克拉默斯 $q$ 势|seealso{$q$~势}}{696}
+\indexentry{Langmuir 方程|see{朗缪尔方程}}{696}
+\indexentry{磁性系统的热力学|seealso{抗磁性; 铁磁性; 顺磁性}}{696}
+\indexentry{热德布罗意波长|seealso{平均热波长}}{696}
+\indexentry{ETH|see{本征态热化假说}}{696}
+\indexentry{MBL|see{多体局域化}}{696}
+\indexentry{准粒子|see{元激发}}{696}
+\indexentry{量子统计|seealso{玻色\bzx 爱因斯坦系统; 费米\bzx 狄拉克系统}}{696}
+\indexentry{简并性判据|seealso{经典极限}}{696}
+\indexentry{Mulholland 公式|see{马尔霍兰德公式}}{696}
+\indexentry{朗道超流判据|seealso{超流的临界速度}}{696}
+\indexentry{声波!声波的惯性密度|seealso{声子}}{696}
+\indexentry{超流动性|seealso{超流的临界速度}}{696}
+\indexentry{宇宙背景探测者|see{COBE}}{696}
+\indexentry{宇宙微波背景|see{CMB}}{696}
+\indexentry{宇宙中微子背景|see{$\text{C}{\upnu}\text{B}$}}{696}
+\indexentry{相对论性重离子对撞机|see{RHIC}}{696}
+\indexentry{威尔金森微波各向异性探测器|see{WMAP}}{696}
+\indexentry{对关联函数|seealso{关联函数; 关联}}{696}
+\indexentry{概率密度算符|seealso{密度矩阵}}{696}
+\indexentry{Ursel 函数|see{集团函数}}{696}
+\indexentry{Bethe-Uhlenbeck 表述形式|see{贝思\bzx 乌伦贝克表述形式}}{696}
+\indexentry{凝聚|seealso{玻色\bzx 爱因斯坦凝聚}}{696}
+\indexentry{二次量子化|seealso{量子化场}}{696}
+\indexentry{铁磁性|seealso{自发磁化强度}}{696}
+\indexentry{内分子场|seealso{铁磁性}}{696}
+\indexentry{常程序@长程序|seealso{自发磁化强度}}{696}
+\indexentry{随机混合近似|seealso{平均场理论}}{696}
+\indexentry{外斯铁磁理论|seealso{平均场理论}}{696}
+\indexentry{伊辛晶格的准化学近似|seealso{伊辛晶格的贝特近似}}{696}
+\indexentry{相变|seealso{临界行为}}{696}
+\indexentry{自发磁化强度|seealso{长程序}}{696}
+\indexentry{磁化率|seealso{奇异性}}{696}
+\indexentry{合作现象|see{相变}}{696}
+\indexentry{Jarzynski 等式|see{贾津斯基等式}}{696}
+\indexentry{Fick 扩散定律|see{菲克扩散定律}}{696}
+\indexentry{Nyquist 定理|see{尼奎斯特定理}}{696}
+\indexentry{非平衡性质|seealso{涨落\bzx 耗散定理}}{696}
+\indexentry{记忆函数|see{自关联函数}}{696}
+\indexentry{玻色液体中的涡旋运动|see{量子化环流}}{696}
+\indexentry{Goldstone 模|see{戈德斯通模}}{696}
