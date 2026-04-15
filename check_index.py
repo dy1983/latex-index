@@ -4,7 +4,15 @@ Index checker: verify page numbers, merging, ordering, and cross-references.
 import re
 from typing import List, Tuple, Optional
 from idx_parser import strip_tex
-from readings import collect_text_sort_warnings, PolyphoneDict, text_to_sort_key
+from readings import (
+    collect_text_sort_warnings,
+    compare_text_sort_keys,
+    DEFAULT_POLYPHONE_PATH,
+    PolyphoneDict,
+    resolve_stroke_order_for_texts,
+    StrokeOrderDict,
+    text_to_sort_key,
+)
 
 
 DISPLAY_SORT_REPLACEMENTS = {
@@ -173,7 +181,11 @@ def normalize_entry_text(text: str) -> str:
     return text
 
 
-def check_index(filepath: str, polyphone_dict: Optional[PolyphoneDict] = None) -> dict:
+def check_index(
+    filepath: str,
+    polyphone_dict: Optional[PolyphoneDict] = None,
+    stroke_order_dict: Optional[StrokeOrderDict] = None,
+) -> dict:
     """Run all checks on an .ind file. Returns a report dict."""
     entries = parse_ind_file(filepath)
     polyphone_dict = polyphone_dict or PolyphoneDict({})
@@ -189,7 +201,10 @@ def check_index(filepath: str, polyphone_dict: Optional[PolyphoneDict] = None) -
         normalized_text = normalize_entry_text(entry['text'])
         if normalized_text:
             normalized_texts.append(normalized_text)
-    report['warnings'].extend(collect_text_sort_warnings(normalized_texts, polyphone_dict))
+    active_stroke_order = resolve_stroke_order_for_texts(normalized_texts, polyphone_dict, stroke_order_dict)
+    report['warnings'].extend(
+        collect_text_sort_warnings(normalized_texts, polyphone_dict, stroke_order_dict)
+    )
     
     prev_text = None
     prev_sort_key = None
@@ -239,8 +254,8 @@ def check_index(filepath: str, polyphone_dict: Optional[PolyphoneDict] = None) -
         
         # Check 4: Ordering of entries using the Chinese sort rule
         if normalized_text:  # Only check if we have non-empty text
-            current_sort_key = text_to_sort_key(normalized_text, polyphone_dict)
-            if prev_text is not None and prev_sort_key is not None and current_sort_key < prev_sort_key:
+            current_sort_key = text_to_sort_key(normalized_text, polyphone_dict, active_stroke_order)
+            if prev_text is not None and prev_sort_key is not None and compare_text_sort_keys(current_sort_key, prev_sort_key) < 0:
                 report['errors'].append(
                     f"Entry {i+1} '{text}' should not come before Entry {i} '{prev_text}' "
                     "under the pinyin-plus-stroke sorting rule"
@@ -294,6 +309,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Check index file for errors')
     parser.add_argument('ind_file', help='Input .ind file')
     parser.add_argument('--polyphone', help='YAML file for polyphone overrides', default=None)
+    parser.add_argument('--stroke-order', help='YAML/JSON file for stroke-order overrides', default=None)
     args = parser.parse_args()
     
     # Load polyphone dict if specified or use default
@@ -302,11 +318,19 @@ if __name__ == '__main__':
         polyphone = PolyphoneDict.load(args.polyphone)
     else:
         # Try to load built-in polyphone file
-        built_in = os.path.join(os.path.dirname(__file__), 'poly.yaml')
+        built_in = str(DEFAULT_POLYPHONE_PATH)
         if os.path.exists(built_in):
             polyphone = PolyphoneDict.load(built_in)
+
+    stroke_order = StrokeOrderDict.load(args.stroke_order)
     
-    report = check_index(args.ind_file, polyphone)
+    report = check_index(args.ind_file, polyphone, stroke_order)
+    if stroke_order.last_auto_added:
+        print(
+            f"Updated {stroke_order.path.name} with {len(stroke_order.last_auto_added)} characters: "
+            f"{'、'.join(stroke_order.last_auto_added)}"
+        )
+        print()
     print(format_report(report))
     
     # Exit with error code if there are critical errors

@@ -1,0 +1,194 @@
+一:
+  sequence:
+  - H
+  source: seed
+二:
+  sequence:
+  - H
+  - H
+  source: seed
+关:
+  sequence:
+  - N
+  - NSP
+  - H
+  - H
+  - NSPH
+  - NH
+  source: hanzi-writer-data
+悬:
+  sequence:
+  - NSP
+  - HNSP
+  - TH
+  - TH
+  - H
+  - HPH
+  - NS
+  - S
+  - NSNHTSZ
+  - N
+  - N
+  source: hanzi-writer-data
+据:
+  sequence:
+  - H
+  - NSPH
+  - HT
+  - NHNSP
+  - H
+  - NSP
+  - H
+  - NSP
+  - NS
+  - NHNSP
+  - NH
+  source: hanzi-writer-data
+旋:
+  sequence:
+  - N
+  - H
+  - HNSPZ
+  - NSP
+  - NSP
+  - H
+  - HNP
+  - HNSN
+  - TH
+  - NSP
+  - NH
+  source: hanzi-writer-data
+现:
+  sequence:
+  - H
+  - H
+  - NSP
+  - HT
+  - NS
+  - NHNS
+  - NSPH
+  - SNHTS
+  source: hanzi-writer-data
+福:
+  sequence:
+  - N
+  - HSP
+  - S
+  - D
+  - H
+  - NS
+  - NHNSP
+  - TH
+  - NS
+  - NHNSPS
+  - H
+  - NSP
+  - TH
+  source: hanzi-writer-data
+线:
+  sequence:
+  - NSPSH
+  - NPSH
+  - HT
+  - H
+  - H
+  - HNSNHTS
+  - SPH
+  - N
+  source: hanzi-writer-data
+观:
+  sequence:
+  - HSPH
+  - NS
+  - NS
+  - NHNS
+  - HNSP
+  - NSNHTS
+  source: hanzi-writer-data
+贾:
+  sequence:
+  - H
+  - NS
+  - NHNSP
+  - NSP
+  - NSP
+  - TH
+  - NS
+  - NHNS
+  - NSPH
+  - NS
+  source: hanzi-writer-data
+距:
+  sequence:
+  - NS
+  - HNSP
+  - TH
+  - NSP
+  - TH
+  - NSP
+  - HT
+  - H
+  - THNSP
+  - H
+  - NSH
+  source: hanzi-writer-data
+辐:
+  sequence:
+  - H
+  - NSH
+  - NS
+  - H
+  - H
+  - NS
+  - HNSP
+  - TH
+  - NS
+  - NHNSPS
+  - H
+  - NSP
+  - TH
+  source: hanzi-writer-data
+钾:
+  sequence:
+  - NP
+  - TH
+  - H
+  - H
+  - NSHT
+  - NS
+  - SHNSH
+  - H
+  - TH
+  - NS
+  source: hanzi-writer-data
+限:
+  sequence:
+  - NHNSPSNSH
+  - NS
+  - THNS
+  - TH
+  - THN
+  - NSHT
+  - NSP
+  - NH
+  source: hanzi-writer-data
+李:
+  sequence:
+  - H
+  - NS
+  - P
+  - NH
+  - NHNP
+  - NSPH
+  - H
+  source: hanzi-writer-data
+里:
+  sequence:
+  - NS
+  - HNS
+  - H
+  - NH
+  - NSP
+  - H
+  - H
+  source: hanzi-writer-data

@@ -1,3 +1,8 @@
 main.idx
 main.ind
 main.*
+
+# OS and Python cache
+.DS_Store
+__pycache__/
+
